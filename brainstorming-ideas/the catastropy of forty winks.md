@@ -33,26 +33,26 @@
 
 
 # FEAST
-- Assassin’s Deathblow A firm grip. A sharp knife. That’s all it takes for someone to disappear into the alleys of Galgenbeck. You’ve become adept at it over the years. 
+- Assassin’s Deathblow: A firm grip. A sharp knife. That’s all it takes for someone to disappear into the alleys of Galgenbeck. You’ve become adept at it over the years. 
     - (STR +1)
     - Succeeding a DR12 Strength test allows you to grapple an unaware foe and automatically crit with a one handed bladed weapon.
 
-- Battle-hardened Deathspeaker You were called to battle, not for your prowess with blade and shield. Not for your speed and might. But because the words you spoke brought death to your enemies. 
+- Battle-hardened Deathspeaker: You were called to battle, not for your prowess with blade and shield. Not for your speed and might. But because the words you spoke brought death to your enemies. 
     - (WIL +1)
     - You may cast Powers with medium armor and light zweihand weapons. 
     - (WIL +2)
     - Taking this feat a second time to also include heavy armor and heavy zweihand weapons.
 
-- Beastly Scholar You study the beasts of the land. Gutting them and spilling viscera to uncover secrets of the world.
-    - (PRE +1)
+- Beastly Scholar: You study the beasts of the land. Gutting them and spilling viscera to uncover secrets of the world.
+    - (PRE +1, WIL +1)
     - You may scry and see the future with an animal’s innards. Gain an omen for every 10 hp the beast had, but never more than your maximum omens. Usable once per animal kind. The beasts’ innards may also provide enlightening information.
 
-- Armour piercing?
+- Armour Piercer: You notice the little gaps in between armour and can exploit them.
     - (AGI +1)
     - Your melee attacks ignore light armour. 
-    - (AGI +2)
+    - (STR +1)
     - You may take this feat a second time to increase this to medium armour. 
-    - (AGI +3)
+    - (STR +2)
     - You may take this feat a third time to increase this to heavy all armour.
 
 - Blood Pact It’s a cruel world to be all alone in. But you’ve found a way to avoid this fate.
