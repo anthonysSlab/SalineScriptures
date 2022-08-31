@@ -56,7 +56,7 @@
     - You may take this feat a third time to increase this to heavy all armour.
 
 - Blood Pact It’s a cruel world to be all alone in. But you’ve found a way to avoid this fate.
-    - (PRE 0)
+    - (WIL 0)
     - Form a blood pact with a creature. You can communicate by thought no matter the distance, this never goes away. Whatever one experiences, so does the other. This includes injury and death.
 
 - Bloodthirsty Rage The rush of combat is addictive. You’re always chasing that high. It’s kill or be killed. You can’t stop to ask questions.  
@@ -64,15 +64,15 @@
     - When landing an attack that kills a creature you must move and attack another (this may include allies), adding d6 damage for every creature slain. Your onslaught stops when you fail to kill and you fall to the ground exhausted, losing your next turn
 
 - Bone Crafter You don’t believe in letting things go to waste.
-    - (PRE 0)
+    - (PRE 1, WIL -1)
     - Including the corpses of the fallen You can craft equipment of strangely high quality using a number of humanoid corpses.
     - A d6 weapon, 1 corpse worth of bones. 
     - A shield, 4 corpses worth of bones. 
     - Light armor, 8 corpses worth.
 
 - Calm Killer The knife or arrow that is most careful is the deadliest. You have a sharp eye for gaps and kinks in armour.
-    - (AGI +2)
-    - Twice per combat when making a ranged or melee attack, you may reroll the damage dealt and keep the higher result.
+    - (AGI +1)
+    - Agility times per combat when making a ranged or melee attack, you may reroll the damage dealt and keep the higher result.
 
 - Cats Eyes You looked up at the birds for a sign. Scattered bones, spilled entrails. For naught. But one day you saw your fate in the eyes of a cat lurking in the shadows.
     - (PRE +1)
