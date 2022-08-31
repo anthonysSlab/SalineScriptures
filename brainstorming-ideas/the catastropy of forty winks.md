@@ -75,12 +75,12 @@
     - Agility times per combat when making a ranged or melee attack, you may reroll the damage dealt and keep the higher result.
 
 - Cats Eyes You looked up at the birds for a sign. Scattered bones, spilled entrails. For naught. But one day you saw your fate in the eyes of a cat lurking in the shadows.
-    - (PRE +1)
-    - Perfect vision in darkness, but the light of the sun burns your eyes. −2DR presence when in darkness, +2DR when in daylight.
+    - (PRE +2)
+    - Near perfect vision in darkness, but the light of the sun burns your eyes. −2DR presence when in darkness, +2DR when in daylight.
     - Staring into the eyes of a creature let’s you feel whatever it is feeling.
 
 - Fateful Visions The fates steer your journey across the dying world. One can only hope they guide you to redemption and not destruction.
-    - (PRE 0)
+    - (PRE 0, WIL 0)
     - Consume an omen and spend a few moments in quiet meditation. Ask the Game Master a question pertaining to the current situation.
     - You will be granted a bizarre vision that provides enlightening information. GM rolls a d4 in secret, on a 1 the vision is deceptive.
 
