@@ -1,37 +1,3 @@
-- 1 Perhaps it’s for the best. HE emerges from the shadows. At least your suffering is short, almost instantaneous, as the two-headed basilisk devours you.
-    - *SHE emerges instead*
-- 2-3 Roll again, but the result that you get is GREATLY amplified.
-    - *roll again, and combine both effects. Both are amplified*
-- 4-7 The Power works, but fate or a demonic force perverts its effects to your precise disadvantage.
-    - *the power is automatically a crit.*
-- 8 The scroll crumbles to tendrils of fine black powder which reach for your nose and mouth. Make a DR14 Toughness test or lose d8 HP
-    - *test DR16 or become possesed*
-- 9 The sky warps and stars spin like wheels. Thrown one day into the future, you arrive vomiting time as evaporating silver bile. A Misery is fulfilled.
-    - *thrown 2d4 days into the future, you age d12\*5 years*
-- 10 You and a random nearby creature pass out. When you wake up, your souls have switched. Welcome to your new flesh.
-    - *keep switching bodies every day*
-- 11 Your skeleton is possessed by some unearthly force and will do anything to kill you and escape. Test Strength DR10 in stressful situations or take d4 damage.
-    - *for d2 hours a day the skeleton directs your movement, Strength DR12 to Struggle*
-- 12 Around you falls an unending snow of black ash which only the mad can precieve. Water sickens you from this day on. Only ash, soot, or burnt remains can quench your thirst.
-    - *food also sickens you, burying yourself, for a night, in ash is the only way to provide nutrients*
-- 13 You don't regenerate, only poison heals you. You still suffer all other effects of that poison.
-    - *thirst can only be quenched with poison*
-- 14 The illusion of the celestial sphere is lifted, you now see what dwells beyond. And it sees you. Roll morale when gazing at the sky. 
-    - *looking at the sky causes you to become completely mad*
-- 15 One by one your teeth fall out. Long, Brittle figernails replace them in your gums. Your smile is horrific and you find it hard to eat.
-    - *fingernails go all the way to the back of your throat, you find it hard to breathe. DR 4 Toughness when eating or choke to death*
-- 16 You shit out both of your femurs, take d6 damage. 
-    - *shit out your entire skeleton, 3d10 damage*
-- 17 A clone of you appears somewhere and stalks you.
-    - *It's intelligent, mischeivous, and terribly cruel*
-- 18 Water tries to drag you in and drown you, every time near a body of water test DR14 Strength or be dragged in and drowned. 
-    - *All liquids try to cover your mouth and drown you*
-- 19 Doors will not open for you.
-    - *You can't pick up objects, someone must pass you them*
-- 20 The light itself despises you. if you gaze upon a candle, lamp, or torch it goes out. DR6 Presence to not accidentaly look upon a light source.
-    - *the sun absolutely despises you, if looked upon clouds will form around it*
-
-
 # FEAST
 - Assassin’s Deathblow: A firm grip. A sharp knife. That’s all it takes for someone to disappear into the alleys of Galgenbeck. You’ve become adept at it over the years. 
     - (STR +1)
@@ -190,3 +156,4 @@
 
 extreme version of lucky?
 every failure is a fumble but every success is a crit.
+
