@@ -23,6 +23,8 @@
     - -5DR when being truthful
 
 - brave guy thing: You prefer looking death in the eyes instead of hiding like a coward.
-    - 
+    - You don't roll morale, and cannot be demoralized.
+    - When withwrawing from a fight, test DR18 Will or stay in combat.
 
-- 
+- Bulwark
+    - Can defend with a DR8 toughness test, reduces damage by d4.
