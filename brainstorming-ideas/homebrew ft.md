@@ -11,6 +11,9 @@ Note: There are 9 (Including likeable) feats that need to be made.
 
 - Sharpshooter
     - When you spend your entire turn aiming your weapon, get an automatic crit on the next attack. You cannot have an enemy within melee range or take damage while aiming.
+     - Another idea:
+     - Gain an additional d4 attack on unaware enemies that are atleast 10m away.
+     - You may spend a omen on a successful attack to turn it into a crit.
 
 - Hoarder
     - Can find extra items with a dr16 presense roll, they are mundane
