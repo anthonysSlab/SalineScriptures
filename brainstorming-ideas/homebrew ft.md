@@ -2,18 +2,20 @@
 
 Note: There are 9 (Including likeable) feats that need to be made.
 
+*Italics are rework ideas*
+
 - Interrupter
     - (AGI +2)
     - Once per combat you may sacrifice your next turn, to intercept into an enemy's action, DR12 Agility to either: stop their turn, attack them, or do something else right before they do.
 
-- improvised mista boi ja
-    - Improvised weapons are d6 but they break after one hit.
+- improvised mista boi ja (Improviser)
+    - Improvised *and broken* weapons are d6 but they break after one hit.
+    - *something mixed*
 
 - Sharpshooter
     - When you spend your entire turn aiming your weapon, get an automatic crit on the next attack. You cannot have an enemy within melee range or take damage while aiming.
-     - Another idea:
-     - Gain an additional d4 attack on unaware enemies that are atleast 10m away.
-     - You may spend a omen on a successful attack to turn it into a crit.
+     - *Gain an additional d4 attack on unaware enemies that are atleast 10m away.*
+     - *You may spend a omen on a successful attack to turn it into a crit.*
 
 - Hoarder
     - Can find extra items with a dr16 presense roll, they are mundane
@@ -21,7 +23,7 @@ Note: There are 9 (Including likeable) feats that need to be made.
 
 - extreme version of lucky?
     - every failure is a fumble but every success is a crit.
-
+    - *In stressful situations gain +2DR to every skill check but failures fumble and successes crit.*
 - Noble Soul
     - +2DR when lying.
     - -5DR when being truthful.
