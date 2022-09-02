@@ -27,4 +27,8 @@
     - When withwrawing from a fight, test DR18 Will or stay in combat.
 
 - Bulwark
+    - (STR+2, TOU+1)
     - Can defend with a DR8 toughness test, reduces damage by d4.
+
+- Masochist
+    - Losing more than half your max hp in a fight gives you a extra action 
