@@ -54,3 +54,6 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - Exposing the blood of a creature allows you to see their next action for D4 rounds.
     - Exposing your own blood lures aggressive creatures to your location.
     // weird one, puts a lot of work onto the dm, and removes enemies being able to addept to changing conditions
+
+- Gunslinger?
+    - ???
