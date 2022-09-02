@@ -22,7 +22,7 @@
     - +2DR when lying.
     - -5DR when being truthful.
 
-- brave guy thing: You prefer looking death in the eyes instead of hiding like a coward.
+- Iron mind (brave guy thing): You prefer looking death in the eyes instead of hiding like a coward.
     - You don't roll morale, and cannot be demoralized.
     - When withwrawing from a fight, test DR18 Will or stay in combat.
 
