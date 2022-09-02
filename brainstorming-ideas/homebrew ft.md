@@ -36,4 +36,4 @@
 
 - Axe Barron
     - Can use an axe, warpick, poleaxe or scyth to disarm an opponent's weapon. 
-uwu
+uwus hell yeh
