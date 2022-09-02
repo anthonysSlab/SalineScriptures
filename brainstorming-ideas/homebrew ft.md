@@ -32,3 +32,6 @@
 
 - Masochist
     - Losing more than half your max hp in a fight gives you a extra action 
+
+- Axe Barron
+    - Can use an axe, warpick, poleaxe or scyth to disarm an opponent's weapon. 
