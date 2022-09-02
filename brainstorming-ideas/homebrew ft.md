@@ -42,3 +42,7 @@ Note: There are 9 (Including likeable) feats that need to be made.
 
 - Axe Barron
     - Can use an axe, warpick, poleaxe or scyth to disarm an opponent's weapon. 
+
+- Baned hunter
+    - Exposing the blood of a creature allows you to see their next action for D4 rounds.
+    - Exposing your own blood lures aggressive creatures to your location.
