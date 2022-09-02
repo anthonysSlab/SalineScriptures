@@ -25,11 +25,11 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.104894"
-     inkscape:cx="510.00367"
-     inkscape:cy="759.34885"
+     inkscape:cx="479.23149"
+     inkscape:cy="409.08902"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
-     inkscape:window-x="1358"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -59,16 +59,16 @@
        transform="translate(5.2916668,3.1750001)"><tspan
          x="1.5239457"
          y="259.07071"
-         id="tspan28894">Albums That Helped: Mephorash - Shem Ha Mephorash, HAZEMAZE - HAZEMAZE, Monolord - Vænir, Black Tremor - Impending, </tspan><tspan
+         id="tspan64823">Albums That Helped: Mephorash - Shem Ha Mephorash, HAZEMAZE - HAZEMAZE, Monolord - Vænir, Black Tremor - Impending, </tspan><tspan
          x="1.5239457"
          y="263.03945"
-         id="tspan28896">Belzebong - Light the Dankness, Domkraft - The End of Electricity, Belzebong - Sonic Scapes &amp; Weedy Grooves,                </tspan><tspan
+         id="tspan64825">Belzebong - Light the Dankness, Domkraft - The End of Electricity, Belzebong - Sonic Scapes &amp; Weedy Grooves,                </tspan><tspan
          x="1.5239457"
          y="267.0082"
-         id="tspan28898">Omen Stones - Omen Stones, Behemoth - The Satanist, Sleep - Dopesmoker, Auotonoesis - Moon of Foul Magics,             </tspan><tspan
+         id="tspan64827">Omen Stones - Omen Stones, Behemoth - The Satanist, Sleep - Dopesmoker, Auotonoesis - Moon of Foul Magics,             </tspan><tspan
          x="1.5239457"
          y="270.97695"
-         id="tspan28900">Domkraft - The End of Electricity, Electric Wizard - Dopethrone, Khonsu - The Xun Protectorate</tspan></text>
+         id="tspan64829">Domkraft - The End of Electricity, Electric Wizard - Dopethrone, Khonsu - The Xun Protectorate</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
@@ -83,13 +83,13 @@
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="13.209088"
+       x="12.679922"
        y="140.32643"
        id="text461"><tspan
          sodipodi:role="line"
          id="tspan459"
          style="stroke-width:0.264"
-         x="13.209088"
+         x="12.679922"
          y="140.32643">Ideas and Game Design</tspan></text>
     <text
        xml:space="preserve"
@@ -105,35 +105,35 @@
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="155.65218"
+       x="154.0647"
        y="140.52734"
        id="text469"><tspan
          sodipodi:role="line"
          id="tspan467"
          style="stroke-width:0.264"
-         x="155.65218"
+         x="154.0647"
          y="140.52734">Charcoal Font</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:normal;font-family:UnifrakturMaguntia;-inkscape-font-specification:UnifrakturMaguntia;text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="17.998383"
+       x="17.469215"
        y="152.27281"
        id="text473"><tspan
          sodipodi:role="line"
          id="tspan471"
          style="font-size:5.64444px;stroke-width:0.264"
-         x="17.998383"
+         x="17.469215"
          y="152.27281">Arctic Prototype</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:normal;font-family:UnifrakturMaguntia;-inkscape-font-specification:UnifrakturMaguntia;text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="20.404755"
+       x="19.875587"
        y="146.36328"
        id="text503"><tspan
          sodipodi:role="line"
          id="tspan501"
          style="font-size:5.64444px;stroke-width:0.264"
-         x="20.404755"
+         x="19.875587"
          y="146.36328">Anthony Slab</tspan></text>
     <text
        xml:space="preserve"
@@ -149,68 +149,112 @@
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:normal;font-family:UnifrakturMaguntia;-inkscape-font-specification:UnifrakturMaguntia;text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="159.20561"
+       x="157.61813"
        y="146.6413"
        id="text511"><tspan
          sodipodi:role="line"
          id="tspan509"
          style="font-size:5.64444px;stroke-width:0.264"
-         x="159.20561"
+         x="157.61813"
          y="146.6413">Zenithelle</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:normal;font-family:UnifrakturMaguntia;-inkscape-font-specification:UnifrakturMaguntia;text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="22.41506"
-       y="186.81032"
+       x="94.822212"
+       y="186.57085"
        id="text515"><tspan
          sodipodi:role="line"
          id="tspan513"
          style="font-size:5.64444px;stroke-width:0.264"
-         x="22.41506"
-         y="186.81032">Radobad</tspan></text>
+         x="94.822212"
+         y="186.57085">Radobad</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="18.710739"
+       x="19.769073"
        y="180.4606"
        id="text519"><tspan
          sodipodi:role="line"
          id="tspan517"
          style="stroke-width:0.264"
-         x="18.710739"
+         x="19.769073"
          y="180.4606">Proofreading</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="97.21534"
+       x="95.627838"
        y="180.1642"
        id="text523"><tspan
          sodipodi:role="line"
          id="tspan521"
          style="stroke-width:0.264"
-         x="97.21534"
+         x="95.627838"
          y="180.1642">Playtest</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="151.82074"
+       x="156.05402"
        y="179.35921"
        id="text22104"><tspan
          sodipodi:role="line"
          id="tspan22102"
          style="stroke-width:0.264"
-         x="151.82074"
+         x="156.05402"
          y="179.35921">Toot'n Groot</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:normal;font-family:UnifrakturMaguntia;-inkscape-font-specification:UnifrakturMaguntia;text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="146.7803"
+       x="150.48442"
        y="185.41533"
        id="text22108"><tspan
          sodipodi:role="line"
          id="tspan22106"
          style="font-size:5.64444px;stroke-width:0.264"
-         x="146.7803"
+         x="150.48442"
          y="185.41533">Arctic Prototype</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="23.228096"
+       y="191.33246"
+       id="text64764"><tspan
+         sodipodi:role="line"
+         id="tspan64762"
+         style="stroke-width:0.264"
+         x="23.228096"
+         y="191.33246" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888889px;line-height:normal;font-family:UnifrakturMaguntia;-inkscape-font-specification:UnifrakturMaguntia;text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="24.664885"
+       y="188.69835"
+       id="text64768"><tspan
+         sodipodi:role="line"
+         id="tspan64766"
+         style="stroke-width:0.264;-inkscape-font-specification:UnifrakturMaguntia;font-family:UnifrakturMaguntia;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.93888889px"
+         x="24.664885"
+         y="188.69835" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:normal;font-family:UnifrakturMaguntia;-inkscape-font-specification:UnifrakturMaguntia;text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="19.485409"
+       y="185.67407"
+       id="text64772"><tspan
+         sodipodi:role="line"
+         id="tspan64770"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:UnifrakturMaguntia;-inkscape-font-specification:UnifrakturMaguntia;stroke-width:0.264"
+         x="19.485409"
+         y="185.67407">Aqua Reaper</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:normal;font-family:UnifrakturMaguntia;-inkscape-font-specification:UnifrakturMaguntia;text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="20.215527"
+       y="191.57193"
+       id="text64776"><tspan
+         sodipodi:role="line"
+         id="tspan64774"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:UnifrakturMaguntia;-inkscape-font-specification:UnifrakturMaguntia;stroke-width:0.264"
+         x="20.215527"
+         y="191.57193">Jan Bippert</tspan></text>
   </g>
 </svg>
