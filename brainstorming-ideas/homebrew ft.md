@@ -1,5 +1,6 @@
 # IDEAS:
 
+Note: There are 9 (Including likeable) feats that need to be made.
 
 - Interrupter
     - (AGI +2)
