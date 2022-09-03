@@ -19,17 +19,6 @@ Note: There are 9 (Including likeable) feats that need to be made.
      - *Gain an additional d4 attack on unaware enemies with a gun.*
      - *You may spend two omens on a successful attack to turn it into a crit.*
 
-- Hoarder
-    - Can find extra items with a dr16 presense roll, they are mundane
-    - Can carry 2 more items, to the total of 16
-    - *when looting 1 in 6 chance to find extra loot*
-    // might need a rework
-
-- extreme version of lucky?
-    - every failure is a fumble but every success is a crit.
-    - *in stessful situations, -4DR to every test but failures fumble.*
-    // "stressful" may be too vague 
-
 - Noble Soul
     - +2DR when lying.
     - -5DR when being truthful.
@@ -57,6 +46,3 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - Exposing the blood of a creature allows you to see their next action for D4 rounds.
     - Exposing your own blood lures aggressive creatures to your location.
     // weird one, puts a lot of work onto the dm, and removes enemies being able to addept to changing conditions
-
-- Gunslinger?
-    - ???
