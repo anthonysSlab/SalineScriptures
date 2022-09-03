@@ -10,7 +10,8 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - (AGI +2)
     - Once per combat you may sacrifice your next turn, to intercept into an enemy's action, DR12 Agility to either: stop their turn, attack them, or do something else right before they do.
 
-- improvised mista boi ja (Improviser) *(inventive)*
+- Inventive
+    - (PRE +1, STR +1)
     - Improvised and broken weapons are d6 but they break after one hit. // approved the broken thing
     - *something mixed*
 
@@ -40,7 +41,7 @@ Note: There are 9 (Including likeable) feats that need to be made.
     // needs rephrasing
 
 - Bulwark
-    - (STR+2, TOU+1)
+    - (STR +2, TOU +1)
     - Can defend with a DR8 toughness test, reduces damage by d4.
     // needs rephrasing
 
@@ -54,9 +55,10 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - *remove poleaxe given that it's really powerful already*
 
 - Baned hunter
-    - Exposing the blood of a creature allows you to see their next action for D4 rounds.
-    - Exposing your own blood lures aggressive creatures to your location.
+    - Exposing the blood of a creature allows you to see their next action for D4 rounds. //Drinking blood instead, feel their intention 
+    - Exposing your own blood lures aggressive creatures to your location. // Your blood when spilled travels towards the closest injured creature
     // weird one, puts a lot of work onto the dm, and removes enemies being able to addept to changing conditions
 
-- Gunslinger?
-    - ???
+- Shamon
+    - Can spend an omen to perform a ritual that changes an aspect of the weather.
+    - Test DR13 to foresee the upcoming weather.
