@@ -54,8 +54,8 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - *remove poleaxe given that it's really powerful already*
 
 - Baned hunter
-    - Exposing the blood of a creature allows you to see their next action for D4 rounds.
-    - Exposing your own blood lures aggressive creatures to your location.
+    - Exposing the blood of a creature allows you to see their next action for D4 rounds. //Drinking blood instead, feel their intention 
+    - Exposing your own blood lures aggressive creatures to your location. // Your blood when spilled travels towards the closest injured creature
     // weird one, puts a lot of work onto the dm, and removes enemies being able to addept to changing conditions
 
 - Shamon
