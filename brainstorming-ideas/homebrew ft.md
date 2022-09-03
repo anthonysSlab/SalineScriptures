@@ -22,12 +22,14 @@ Note: There are 9 (Including likeable) feats that need to be made.
 - Hoarder
     - Can find extra items with a dr16 presense roll, they are mundane
     - Can carry 2 more items, to the total of 16
+    - *when looting 1 in 6 chance to find extra loot*
+    // might need a rework
 
 - extreme version of lucky?
     - every failure is a fumble but every success is a crit.
-    - *In stressful situations gain +2DR to every skill check but failures fumble and successes crit.*
+    - *in stessful situations, -4DR to every test but failures fumble.*
     // "stressful" may be too vague 
-    
+
 - Noble Soul
     - +2DR when lying.
     - -5DR when being truthful.
