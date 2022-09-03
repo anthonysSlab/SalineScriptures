@@ -30,8 +30,8 @@ Note: There are 9 (Including likeable) feats that need to be made.
     // "stressful" may be too vague 
 
 - Noble Soul
-    - +2DR when lying.
-    - -5DR when being truthful.
+    - Lose 1 omen when lying, 3 max omens.
+    - Lying tests are always successful.
 
 - Tempered mind (brave guy thing): You prefer looking death in the eyes instead of hiding like a coward.
     - You don't roll morale and can't be demoralized.
