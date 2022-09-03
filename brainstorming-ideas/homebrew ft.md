@@ -49,7 +49,7 @@ Note: There are 9 (Including likeable) feats that need to be made.
     // second one is pretty vague  
 
 - Axe Warden
-    - Test DR10 to disarm someone with your axe, warpick, polearm or scyth. 
+    - Test DR10 Strength to disarm someone with your axe, warpick, polearm or scyth. 
     - Attacking the environment doesn't damage your weapon.
 
 - Baned hunter
