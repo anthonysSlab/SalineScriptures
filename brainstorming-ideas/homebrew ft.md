@@ -48,9 +48,9 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - Cannot fail a morale test if it involves pain to you.
     // second one is pretty vague  
 
-- Axe Barron
-    - Can use an axe, warpick, poleaxe or scyth to disarm an opponent's weapon. 
-    - *remove poleaxe given that it's really powerful already*
+- Axe Warden
+    - Test DR10 to disarm someone with your axe, warpick, polearm or scyth. 
+    - Attacking the environment doesn't damage your weapon.
 
 - Baned hunter
     - Exposing the blood of a creature allows you to see their next action for D4 rounds. //Drinking blood instead, feel their intention 
