@@ -33,14 +33,14 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - +2DR when lying.
     - -5DR when being truthful.
 
-- Iron mind (brave guy thing): You prefer looking death in the eyes instead of hiding like a coward.
-    - You don't roll morale, and cannot be demoralized.
-    - When withwrawing from a fight, test DR18 Will or stay in combat.
+- Tempered mind (brave guy thing): You prefer looking death in the eyes instead of hiding like a coward.
+    - You don't roll morale and can't be demoralized.
+    - Test DR18 Will to withdrawl from combat.
     // needs rephrasing
 
 - Bulwark
     - (STR +2, TOU +1)
-    - Can defend with a DR8 toughness test, reduces damage by d4.
+    - Defence is a DR8 toughness test, success reduces damage taken by d4.
     // needs rephrasing
 
 - Masochist
