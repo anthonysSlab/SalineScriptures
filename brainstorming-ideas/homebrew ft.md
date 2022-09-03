@@ -27,6 +27,7 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - every failure is a fumble but every success is a crit.
     - *In stressful situations gain +2DR to every skill check but failures fumble and successes crit.*
     // "stressful" may be too vague 
+    
 - Noble Soul
     - +2DR when lying.
     - -5DR when being truthful.
