@@ -13,7 +13,6 @@ Note: There are 9 (Including likeable) feats that need to be made.
 - Inventive
     - (PRE +1, STR +1)
     - Improvised and broken weapons are d6 but they break after one hit. // approved the broken thing
-    - *something mixed*
 
 - Culveriner
     - When you spend your entire turn aiming your weapon, get an automatic crit on the next attack. You cannot have an enemy within melee range or take damage while aiming.
