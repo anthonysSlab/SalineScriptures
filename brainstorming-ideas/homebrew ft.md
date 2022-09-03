@@ -16,7 +16,7 @@ Note: There are 9 (Including likeable) feats that need to be made.
 
 - Culveriner
     - When you spend your entire turn aiming your weapon, get an automatic crit on the next attack. You cannot have an enemy within melee range or take damage while aiming.
-     - *Gain an additional d4 attack on unaware enemies that are atleast 10m away.*
+     - *Gain an additional d4 attack on unaware enemies with a gun.*
      - *You may spend two omens on a successful attack to turn it into a crit.*
 
 - Hoarder
