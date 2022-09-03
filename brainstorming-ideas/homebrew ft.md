@@ -10,7 +10,8 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - (AGI +2)
     - Once per combat you may sacrifice your next turn, to intercept into an enemy's action, DR12 Agility to either: stop their turn, attack them, or do something else right before they do.
 
-- improvised mista boi ja (Improviser) *(inventive)*
+- Inventive
+    - (PRE +1, STR +1)
     - Improvised and broken weapons are d6 but they break after one hit. // approved the broken thing
     - *something mixed*
 
@@ -40,7 +41,7 @@ Note: There are 9 (Including likeable) feats that need to be made.
     // needs rephrasing
 
 - Bulwark
-    - (STR+2, TOU+1)
+    - (STR +2, TOU +1)
     - Can defend with a DR8 toughness test, reduces damage by d4.
     // needs rephrasing
 
