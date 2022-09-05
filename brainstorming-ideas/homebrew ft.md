@@ -18,17 +18,6 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - Spend an omen to succeed an attack on a unaware enemy with a gun 
     - Crits give you an omen, taking damage removes one.
 
-- Hoarder
-    - Can find extra items with a dr16 presense roll, they are mundane
-    - Can carry 2 more items, to the total of 16
-    - *when looting 1 in 6 chance to find extra loot*
-    // might need a rework
-
-- extreme version of lucky?
-    - every failure is a fumble but every success is a crit.
-    - *in stessful situations, -4DR to every test but failures fumble.*
-    // "stressful" may be too vague 
-
 - Noble Soul
     - Lose 1 omen when lying, 3 max omens.
     - Lying tests are always successful.
