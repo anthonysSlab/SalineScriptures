@@ -59,43 +59,55 @@
 12 - What Village?
 
 
-# EVENTEs d66
+# EVENTEs d88
+*when you roll an event written in itallics, cross it out and replace with something creative*
+
 11 - Nothing happens, BUT... (make tests, roll dice, gaslight everyone), Reroll
-12
-13
-14
-15
-16
-21
-22
-23
-24
-25
-26
-31 - The road goes into an abandoned mine, continues on the other end
-32
-33
-34
-35 
-36
-41
-42
-43
-44
-45
-46
-51
-52
-53
-54
-55
-56
-61
-62
-63
-64
-65
-66
+12-15 - Weather Change.
+16-22 - Ambush! Roll on the ambush table or make shit up!
+23 - Road forks, DR12 PRE or go the wrong way.
+24 - Road gets worse, go down d2 tiers.
+25-27 - Ruins! Ruin table!
+28-33 - Merchant! Merchant table!
+34 - d8 bodies hang from a tree by the road, one booby trapped.
+35 - d4 deserted soldiers "Ask" for supplies, Will attack if not given 2d8 silver and d6 food.
+36 - *Battle across the road, DR8 to not get noticed.*
+37 - Weather gets worse, no progress that day.
+38 - Pilgrimage to the cathedral of Galenbeck.
+41 - *Funerary procession of villagers, they will blame the party.*
+42 - *"lone mercenary", will "help" for d20 silver.*
+43-44 - Blockadge on the road, Table!
+45 - Inquisitor with d4-1 guards, will search for unclean magicks.
+46 - *Abandoned estate...*
+47-48 - *Defensive keep, Guardsman inside believe that they're under attack.*
+51-54 - Village, Table!
+55 - *A town ruled by bandits, don't show off too much wealth*
+56-57 - Town, table!
+58 - Road covered in the fog of graven tosk, plays tricks on the mind. (make tests, roll dice, laugh mianiacly, gaslight them, make them see stuff)
+61 - The road goes into an abandoned mine, continues on the other end
+62 -
+63 -
+64 -
+65 -
+66 -
+67 -
+68 -
+71 -
+72 -
+73 -
+74 -
+75 -
+76 -
+77 -
+78 -
+81 -
+82 -
+83 -
+84 -
+85 -
+86 -
+87 -
+88 -
 
 
 
@@ -110,29 +122,7 @@
 Prices vary depending on the commodity of the item in that place. Double price if it's rare, and halve if very common.
 
 # Event:
-*when you roll an event written in itallics, cross it out and replace with something creative*
 
-r4 Weather Change.
-r5 Ambush! Roll on the ambush table or make shit up!
-r1 Road forks, DR12 PRE or go the wrong way.
-r1 Road gets worse, go down d2 tiers.
-r3 Ruins! Ruin table!
-r4 Merchant! Merchant table!
-r1 d8 bodies hang from a tree by the road, one booby trapped.
-r1 d4 deserted soldiers "Ask" for supplies, Will attack if not given 2d8 silver and d6 food.
-r1 *Battle across the road, DR8 to not get noticed.*
-r1 Weather gets worse, no progress that day.
-r1 Pilgrimage to the cathedral of Galenbeck.
-r1 *Funerary procession of villagers, they will blame the party.*
-r1 *"lone mercenary", will "help" for d20 silver.*
-r2 Blockadge on the road, Table!
-r1 Inquisitor with d4-1 guards, will search for unclean magicks.
-r1 *Abandoned estate...*
-r2 *Defensive keep, Guardsman inside believe that they're under attack.*
-r4 Village, Table!
-r1 *A town ruled by bandits, don't show off too much wealth*
-r2 Town, table!
-r1 Road covered in the fog of graven tosk, plays tricks on the mind. (make tests, roll dice, laugh mianiacly, gaslight them, make them see stuff)
 
 # Town:
 
