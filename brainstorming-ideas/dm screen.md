@@ -66,10 +66,10 @@
 36
 41
 42 - Davinky himmself appears 
-43 - The road leads into a withered forest, something has drain life
+43 - The road leads into a multiple ponds teeming with fish, something uses this as a food source.
 44
 45
-46 - A large chasm splits open the road, there are some makeshift bridges but...
+46 - A large chasm splits open the road, there are some makeshift bridges but they can only hold the weight of one person.
 51
 52 - The trees are the hunters in this forest.
 53 
