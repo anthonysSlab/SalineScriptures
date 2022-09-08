@@ -66,13 +66,13 @@
 36
 41
 42 - Davinky himmself appears 
-43
+43 - The road leads into a withered forest, something has drain life
 44
 45
-46
+46 - A large chasm splits open the road, there are some makeshift bridges but...
 51
-52
-53
+52 - The trees are the hunters in this forest.
+53 
 54
 55
 56
