@@ -83,8 +83,11 @@
 65
 66
 
-
-
+# Event Ideas:
+- Mist folds over the field, the recently slain come back as twisted spirits.
+- A lumbermill lies ahead, work is going as planned but food hasnt been delivered for a few days.
+- Guards are patroling every square inch of this area, someone's wanted dead by a royal.
+- You come across a D6 group of hunter's that have lost their game. They know it will come back for them.
 
 
 
