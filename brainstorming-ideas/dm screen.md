@@ -1,5 +1,132 @@
 <INSERT MAP HERE>
 
+
+
+
+
+# Villages: d12
+1 - Burned down after a recent conflict, d6 silver can be found in the ashes.
+2 - Recently Pillaged, No supplies to trade. Weary of outsiders.
+3 - Savage Beasts and Monsters live in the village, Residents terrorised, Low stock.
+4 - Ruled by Bandits, Spending over 25s will make them *interested*.
+5 - An Inquisitor is passing through and burning d6 witches. DR14 or be searched for Unclean Magicks.
+6 - The "Village" is well stocked, but the "Residents" want you to leave urgently.
+7 - Eeger to trade, but hiding something...
+8 - Home to an underground "Herbalist" market, Moderate Stock, Villagers are mad at the "Herbalists" for bringing guards.
+9 - Rich noble is passing through, 2d6 guards with him.
+10 - Well off trading post, supplies plantiful.
+11 - Wealthy Merchant has recently passed through, Traded All supplies for d2 Rare Items.
+12 - What Village?
+
+
+# EVENTEs d88
+*when you roll an event written in itallics, cross it out and replace with something creative*
+
+11 - Nothing happens, BUT... (make tests, roll dice, gaslight everyone), Reroll
+12-15 - Weather Change.
+16-22 - Ambush! Roll on the ambush table or make shit up!
+23 - Road forks, DR12 PRE or go the wrong way.
+24 - Road gets worse, go down d2 tiers.
+25-27 - Ruins! Ruin table!
+28-33 - Merchant! Merchant table!
+34 - d8 bodies hang from a tree by the road, one booby trapped.
+35 - d4 deserted soldiers "Ask" for supplies, Will attack if not given 2d8 silver and d6 food.
+36 - *Battle across the road, DR8 to not get noticed.*
+37 - Weather gets worse, no progress that day.
+38 - Pilgrimage to the cathedral of Galenbeck.
+41 - *Funerary procession of villagers, they will blame the party.*
+42 - *"lone mercenary", will "help" for d20 silver.*
+43-44 - Blockadge on the road, Table!
+45 - Inquisitor with d4-1 guards, will search for unclean magicks.
+46 - *Abandoned estate...*
+47-48 - *Defensive keep, Guardsman inside believe that they're under attack.*
+51-54 - Village, Table!
+55 - *A town ruled by bandits, don't show off too much wealth*
+56-57 - Town, table!
+58 - Road covered in the fog of graven tosk, plays tricks on the mind. (make tests, roll dice, laugh mianiacly, gaslight them, make them see stuff)
+61 - The road goes into an abandoned mine, continues on the other end
+62 -
+63 -
+64 -
+65 -
+66 -
+67 -
+68 -
+71 -
+72 -
+73 -
+74 -
+75 -
+76 -
+77 -
+78 -
+81 -
+82 -
+83 -
+84 -
+85 -
+86 -
+87 -
+88 -
+
+
+
+
+
+
+
+## Suggestions/Ideas
+
+// "r" stands for range, ie how many numbers should the result span
+
+Prices vary depending on the commodity of the item in that place. Double price if it's rare, and halve if very common.
+
+# Event:
+
+
+# Town:
+
+
+# Blockadge:
+1 - A rift has opened in the middle of the road (d6 hours to go around)
+2 - The area has turned into a difficult to traverse bog (d4 days to pass)
+
+
+# Ambush:
+1 - A troll Adnah (32HP / Morale - / 2d6 Claws / d2 Hide / Special: Will cast a random unclean power on death)
+2 - A Silhouette of a Wyvern Against The Purple Sky
+3 - d2 Goblins
+4 - d4 Grotesques on an Archway
+5
+6
+7 - 2d4 Hungry Canibals (4HP / Morale 9 / Hands, Bite d2)
+8-9 - d4 Rotted Skeletons (5HP / Morale 10 / Knife d2+1 / Special: On hit DR10 or become infected)
+10 - d4 Maddened Wild Beasts (HP7 / Morale 8 / d6 claw, bite, etc / d2 Hide, scales, etc)
+11 - An Inquisitor with d2 Guards *Will accuse the party of unclean magicks* (20HP /  Morale 11 / Flail 2d4 / d6 Plate / 3 Power / Special: has 2 random unclean scrolls)
+12
+13
+14
+15
+16 - A Mad Guard (10HP / Morale - / Longsword d6 / d4 Maile)
+17-19 - d4 Thieves, Robbers, And other Scum. (5HP / 7 Morale / d4 Shortsword; d6 Bow / d2 Leather)
+20 - Nothing... But...
+
+# Ruins:
+
+# Searching for Food n Water
+1 - Get lost and spend the day getting back
+2 - Find a small streak
+3 - Find d6+1 of "fresh" Food, DR14 Presence when eating to notice it's Infected
+4 - d6 rations of fresh Food and Water
+5 - Killing a Savage Beast yelds d8+2 days of Food.
+6 - a cart with 2d6+4 days of food and water, someone is looking for it.
+
+
+
+
+
+### FINISHED
+
 # Stock: 2d4
 2 - Recently pillaged, shelves empty
 3 - Rich travelers recently passed through, little stock but lots of money 
