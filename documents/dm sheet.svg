@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.104894"
-     inkscape:cx="1641.3339"
-     inkscape:cy="361.12061"
+     inkscape:cx="1976.6602"
+     inkscape:cy="605.48795"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="1358"
@@ -57,9 +57,15 @@
        y="0"
        width="210"
        height="297"
-       id="page59500" />
+       id="page1436" />
     <inkscape:page
        x="880"
+       y="0"
+       width="210"
+       height="297"
+       id="page59500" />
+    <inkscape:page
+       x="1100"
        y="0"
        width="210"
        height="297"
@@ -385,26 +391,26 @@
        transform="translate(98.380655,36.574223)"><tspan
          x="127.99023"
          y="29.293613"
-         id="tspan208365">Half the group fails morale.
+         id="tspan2894">Half the group fails morale.
 </tspan><tspan
          x="127.99023"
          y="34.585276"
-         id="tspan208367">The group is outnumbered.
+         id="tspan2896">The group is outnumbered.
 </tspan><tspan
          x="127.99023"
          y="39.876938"
-         id="tspan208369">The leader is killed.
+         id="tspan2898">The leader is killed.
 </tspan><tspan
          x="127.99023"
          y="45.168599"
-         id="tspan208371">Half the group is eliminated.
+         id="tspan2900">Half the group is eliminated.
 </tspan><tspan
          x="127.99023"
          y="50.460263"
-         id="tspan208373">A single creature has only </tspan><tspan
+         id="tspan2902">A single creature has only </tspan><tspan
          x="127.99023"
          y="55.751927"
-         id="tspan208375">1/3 of it's HP left.</tspan></text>
+         id="tspan2904">1/3 of it's HP left.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
@@ -676,12 +682,12 @@
        transform="translate(274.38312,-33.463484)"><tspan
          x="39.630863"
          y="193.54272"
-         id="tspan208377">(+2DR if a weapon is not meant<tspan
+         id="tspan2906">(+2DR if a weapon is not meant<tspan
    y="193.54272"
-   id="tspan208379"> </tspan></tspan><tspan
+   id="tspan2908"> </tspan></tspan><tspan
          x="39.630863"
          y="197.95245"
-         id="tspan208381">to be used in that way)</tspan></text>
+         id="tspan2910">to be used in that way)</tspan></text>
     <image
        width="30"
        height="37.096771"
@@ -729,11 +735,11 @@
        transform="translate(-357.72084,-0.78894663)"><tspan
          x="583.16754"
          y="195.59485"
-         id="tspan208387"><tspan
+         id="tspan2916"><tspan
    style="stroke-opacity:0.377778"
-   id="tspan208383">Defence:</tspan> <tspan
+   id="tspan2912">Defence:</tspan> <tspan
    style="font-size:3.88056px"
-   id="tspan208385">PC gains a free attack.</tspan></tspan></text>
+   id="tspan2914">PC gains a free attack.</tspan></tspan></text>
     <path
        style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.364613;stroke-dasharray:none;stroke-opacity:0.426667"
        d="m 228.51957,190.941 c 57.90972,0 57.61798,0 57.61798,0 l -0.14585,0.004"
@@ -762,20 +768,20 @@
        transform="translate(212.63813,-13.663651)"><tspan
          x="84.564072"
          y="189.0531"
-         id="tspan208389">
+         id="tspan2918">
 </tspan><tspan
          x="84.564072"
          y="194.34476"
-         id="tspan208393"><tspan
+         id="tspan2922"><tspan
    style="stroke-opacity:0.422222"
-   id="tspan208391">Attack:</tspan> The weapon </tspan><tspan
+   id="tspan2920">Attack:</tspan> The weapon </tspan><tspan
          x="84.564072"
          y="199.63642"
-         id="tspan208395">breaks or is lost.
+         id="tspan2924">breaks or is lost.
 </tspan><tspan
          x="84.564072"
          y="204.92807"
-         id="tspan208397">
+         id="tspan2926">
 </tspan></text>
     <text
        xml:space="preserve"
@@ -786,25 +792,25 @@
        transform="translate(208.12507,-10.58537)"><tspan
          x="109.57703"
          y="202.52347"
-         id="tspan208403"><tspan
+         id="tspan2932"><tspan
    style="stroke-opacity:0.395556"
-   id="tspan208399">Defence:</tspan> <tspan
+   id="tspan2928">Defence:</tspan> <tspan
    style="font-size:3.88056px"
-   id="tspan208401">PC takes double</tspan><tspan
+   id="tspan2930">PC takes double</tspan><tspan
    y="202.52347"
-   id="tspan208405"> </tspan></tspan><tspan
+   id="tspan2934"> </tspan></tspan><tspan
          x="109.57703"
          y="206.7568"
-         id="tspan208409"><tspan
+         id="tspan2938"><tspan
    style="font-size:3.88056px"
-   id="tspan208407">damage and armour is</tspan><tspan
+   id="tspan2936">damage and armour is</tspan><tspan
    y="206.7568"
-   id="tspan208411"> </tspan></tspan><tspan
+   id="tspan2940"> </tspan></tspan><tspan
          x="109.57703"
          y="210.99014"
-         id="tspan208415"><tspan
+         id="tspan2944"><tspan
            style="font-size:3.88056px"
-           id="tspan208413">reduced one tier.</tspan></tspan></text>
+           id="tspan2942">reduced one tier.</tspan></tspan></text>
     <path
        style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.332;stroke-dasharray:none;stroke-opacity:0.426667"
        d="m 292.90479,187.87235 c 47.32294,0 47.08454,0 47.08454,0 l -0.11919,0.004"
@@ -845,14 +851,14 @@
        transform="translate(232.17084,6.3500001)"><tspan
          x="16.400608"
          y="154.45486"
-         id="tspan208419"><tspan
+         id="tspan2948"><tspan
    style="font-size:3.52778px;stroke-opacity:0.528497"
-   id="tspan208417">d6 + Agility</tspan> for<tspan
+   id="tspan2946">d6 + Agility</tspan> for<tspan
    y="154.45486"
-   id="tspan208421"> </tspan></tspan><tspan
+   id="tspan2950"> </tspan></tspan><tspan
          x="16.400608"
          y="159.74653"
-         id="tspan208423">individual</tspan></text>
+         id="tspan2952">individual</tspan></text>
     <path
        style="fill:#000000;stroke:#000000;stroke-width:0.505;stroke-dasharray:none;stroke-opacity:1"
        d="m 223.43292,228.85932 c 128.14722,0 128.51077,-0.16055 128.51077,-0.16055"
@@ -881,25 +887,25 @@
        transform="translate(335.63633,20.022243)"><tspan
          x="20.488598"
          y="125.30216"
-         id="tspan208427"><tspan
+         id="tspan2956"><tspan
    style="stroke:#000000;stroke-opacity:0.455959"
-   id="tspan208425">2 Max</tspan> omens by default
+   id="tspan2954">2 Max</tspan> omens by default
 </tspan><tspan
          x="20.488598"
          y="130.59382"
-         id="tspan208433">Regain <tspan
+         id="tspan2962">Regain <tspan
    style="stroke:#000000;stroke-opacity:0.455959"
-   id="tspan208429">d2</tspan> after resting for <tspan
+   id="tspan2958">d2</tspan> after resting for <tspan
    style="stroke:#000000;stroke-opacity:0.455959"
-   id="tspan208431">6h</tspan>
+   id="tspan2960">6h</tspan>
 </tspan><tspan
          x="20.488598"
          y="135.88549"
-         id="tspan208435">Unused carry onto the next day
+         id="tspan2964">Unused carry onto the next day
 </tspan><tspan
          x="20.488598"
          y="141.17714"
-         id="tspan208437">Use omens to:</tspan></text>
+         id="tspan2966">Use omens to:</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;white-space:pre;inline-size:71.2054;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-opacity:0.168889"
@@ -909,77 +915,77 @@
        transform="translate(203.42633,49.052341)"><tspan
          x="152.56384"
          y="121.23831"
-         id="tspan208441"><tspan
+         id="tspan2970"><tspan
            style="stroke-opacity:0"
-           id="tspan208439">Reroll a dice roll that is 
+           id="tspan2968">Reroll a dice roll that is 
 </tspan></tspan><tspan
          x="152.56384"
          y="126.52997"
-         id="tspan208447"><tspan
+         id="tspan2976"><tspan
            style="stroke-opacity:0"
-           id="tspan208443">not a crit </tspan><tspan
+           id="tspan2972">not a crit </tspan><tspan
            style="stroke-opacity:0"
-           id="tspan208445">or a fumble 
+           id="tspan2974">or a fumble 
 </tspan></tspan><tspan
          x="152.56384"
          y="131.82163"
-         id="tspan208451"><tspan
+         id="tspan2980"><tspan
            style="stroke-opacity:0"
-           id="tspan208449">(yours or someone else's)
+           id="tspan2978">(yours or someone else's)
 </tspan></tspan><tspan
          x="152.56384"
          y="137.11329"
-         id="tspan208463"><tspan
+         id="tspan2992"><tspan
            style="stroke-opacity:0"
-           id="tspan208453">Neutralize a </tspan><tspan
+           id="tspan2982">Neutralize a </tspan><tspan
            style="stroke-opacity:0.262136"
-           id="tspan208455">Crit</tspan><tspan
+           id="tspan2984">Crit</tspan><tspan
            style="stroke-opacity:0"
-           id="tspan208457"> or </tspan><tspan
+           id="tspan2986"> or </tspan><tspan
            style="stroke-opacity:0.339806"
-           id="tspan208459">Fumble</tspan><tspan
+           id="tspan2988">Fumble</tspan><tspan
            style="stroke-opacity:0"
-           id="tspan208461">
+           id="tspan2990">
 </tspan></tspan><tspan
          x="152.56384"
          y="142.40494"
-         id="tspan208469"><tspan
+         id="tspan2998"><tspan
    style="stroke-opacity:0"
-   id="tspan208465">Lower damage dealt to you by </tspan><tspan
+   id="tspan2994">Lower damage dealt to you by </tspan><tspan
    style="stroke-opacity:0.585761"
-   id="tspan208467">d6</tspan>
+   id="tspan2996">d6</tspan>
 </tspan><tspan
          x="152.56384"
          y="147.6966"
-         id="tspan208479"><tspan
+         id="tspan3008"><tspan
    style="stroke-opacity:0"
-   id="tspan208471">Neutralize a </tspan><tspan
+   id="tspan3000">Neutralize a </tspan><tspan
    style="stroke-opacity:0.365696"
-   id="tspan208473">Crit</tspan><tspan
+   id="tspan3002">Crit</tspan><tspan
    style="stroke-opacity:0"
-   id="tspan208475"> or a </tspan><tspan
+   id="tspan3004"> or a </tspan><tspan
    style="stroke-opacity:0.385113"
-   id="tspan208477">Fumble</tspan>
+   id="tspan3006">Fumble</tspan>
 </tspan><tspan
          x="152.56384"
          y="152.98825"
-         id="tspan208485"><tspan
+         id="tspan3014"><tspan
    style="stroke-opacity:0"
-   id="tspan208481">Lower one test's </tspan><tspan
+   id="tspan3010">Lower one test's </tspan><tspan
    style="stroke-opacity:0.514563"
-   id="tspan208483">DR by -4</tspan>
+   id="tspan3012">DR by -4</tspan>
 </tspan><tspan
          x="152.56384"
          y="158.27991"
-         id="tspan208489"><tspan
+         id="tspan3018"><tspan
            style="stroke-opacity:0"
-           id="tspan208487">Deal maximum damage 
+           id="tspan3016">Deal maximum damage 
 </tspan></tspan><tspan
          x="152.56384"
          y="163.57157"
-         id="tspan208493"><tspan
+         id="tspan3022"><tspan
    style="stroke-opacity:0"
-   id="tspan208491">with one attack</tspan>
+   id="tspan3020">with one attack</tspan>
 </tspan></text>
     <path
        style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.373154;stroke-dasharray:none;stroke-opacity:0.426667"
@@ -1033,23 +1039,23 @@
        transform="translate(-7.0977573,70.489304)"><tspan
          x="232.9254"
          y="175.30208"
-         id="tspan208499"><tspan
+         id="tspan3028"><tspan
    style="stroke-opacity:0.631111"
-   id="tspan208495">Will+d4</tspan> <tspan
+   id="tspan3024">Will+d4</tspan> <tspan
    style="stroke-opacity:0.786667"
-   id="tspan208497">power</tspan> every day.
+   id="tspan3026">power</tspan> every day.
 </tspan><tspan
          x="232.9254"
          y="180.59374"
-         id="tspan208503"><tspan
+         id="tspan3032"><tspan
    style="stroke-opacity:0.566343"
-   id="tspan208501">DR12</tspan> Prescence to cast.
+   id="tspan3030">DR12</tspan> Prescence to cast.
 </tspan><tspan
          x="232.9254"
          y="185.8854"
-         id="tspan208507">lose <tspan
+         id="tspan3036">lose <tspan
    style="stroke-opacity:0.601942"
-   id="tspan208505">d2 HP</tspan> on fail.
+   id="tspan3034">d2 HP</tspan> on fail.
 </tspan></text>
     <path
        style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.373154;stroke-dasharray:none;stroke-opacity:0.426667"
@@ -1064,30 +1070,30 @@
        transform="translate(51.475486,1.8426323)"><tspan
          x="233.50229"
          y="235.19556"
-         id="tspan208511"><tspan
+         id="tspan3040"><tspan
    style="stroke-opacity:1"
-   id="tspan208509">Crit:</tspan> The scroll's potency </tspan><tspan
+   id="tspan3038">Crit:</tspan> The scroll's potency </tspan><tspan
          x="233.50229"
          y="240.48722"
-         id="tspan208513">incrases drastically
+         id="tspan3042">incrases drastically
 </tspan><tspan
          x="233.50229"
          y="245.77887"
-         id="tspan208519"><tspan
+         id="tspan3048"><tspan
    style="stroke-opacity:1"
-   id="tspan208515">Fumble:</tspan> lose <tspan
+   id="tspan3044">Fumble:</tspan> lose <tspan
    style="stroke-opacity:0.553398"
-   id="tspan208517">d6 HP</tspan>, scroll </tspan><tspan
+   id="tspan3046">d6 HP</tspan>, scroll </tspan><tspan
          x="233.50229"
          y="251.07053"
-         id="tspan208523">breaks, can't cast for <tspan
+         id="tspan3052">breaks, can't cast for <tspan
    style="stroke-opacity:0.459547"
-   id="tspan208521">d6 days</tspan>, </tspan><tspan
+   id="tspan3050">d6 days</tspan>, </tspan><tspan
          x="233.50229"
          y="256.36219"
-         id="tspan208527"><tspan
+         id="tspan3056"><tspan
    style="stroke-opacity:0.491909"
-   id="tspan208525">Arcane Catastropy</tspan>.</tspan></text>
+   id="tspan3054">Arcane Catastropy</tspan>.</tspan></text>
     <path
        style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.358005;stroke-dasharray:none;stroke-opacity:0.426667"
        d="m 224.91949,247.3652 c 55.66523,0 55.38479,0 55.38479,0 l -0.1402,0.004"
@@ -1387,9 +1393,9 @@
        transform="translate(9.6987267,230.82271)"><tspan
          x="231.42868"
          y="58.371666"
-         id="tspan208531">Infected character does not benefit from resting, instead, <tspan
+         id="tspan3060">Infected character does not benefit from resting, instead, <tspan
    style="stroke-opacity:0.537778"
-   id="tspan208529">d6 HP is lost daily</tspan>. </tspan></text>
+   id="tspan3058">d6 HP is lost daily</tspan>. </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0.546713;stop-color:#000000"
@@ -1410,32 +1416,32 @@
        transform="translate(-556.2146,215.11791)"><tspan
          x="804.11578"
          y="68.743149"
-         id="tspan208537"><tspan
+         id="tspan3066"><tspan
    style="stroke-opacity:0.56"
-   id="tspan208533">d4</tspan> after combat, if equal or higher, to current hp wounds are <tspan
+   id="tspan3062">d4</tspan> after combat, if equal or higher, to current hp wounds are <tspan
    style="stroke-opacity:0.372168"
-   id="tspan208535">infected.</tspan></tspan></text>
+   id="tspan3064">infected.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       x="450.19397"
-       y="81.896996"
+       x="448.27826"
+       y="64.655525"
        id="text197673"><tspan
          sodipodi:role="line"
          id="tspan197671"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';stroke:#000000;stroke-width:0.264;stroke-opacity:1"
-         x="450.19397"
-         y="81.896996">Travel</tspan></text>
+         x="448.27826"
+         y="64.655525">Travel</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666667px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:1;stop-color:#000000"
-       x="493.96588"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:1;stop-color:#000000"
+       x="537.30902"
        y="10.80272"
        id="text197677"><tspan
          sodipodi:role="line"
          id="tspan197675"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';stroke:#000000;stroke-width:0.264;stroke-opacity:1;font-size:8.46666667px"
-         x="493.96588"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';stroke:#000000;stroke-width:0.264;stroke-opacity:1"
+         x="537.30902"
          y="10.80272">Rest</tspan></text>
     <text
        xml:space="preserve"
@@ -1452,91 +1458,78 @@
    id="tspan125083">d6 HP</tspan> by default. </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:117.29;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;stop-color:#000000"
+       style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:220.978;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;stop-color:#000000"
        x="673.79303"
        y="86.238907"
        id="text138409"
        transform="translate(-227.83897,-62.280865)"><tspan
          x="673.79303"
          y="86.238907"
-         id="tspan208539">Sleeping in a bad place, bad weather, or without fire </tspan><tspan
-         x="673.79303"
-         y="91.530568"
-         id="tspan208543">can reduce that to a <tspan
+         id="tspan3070">Sleeping in a bad place, bad weather, or without fire can reduce that to a <tspan
    style="stroke-opacity:0.537778"
-   id="tspan208541">d4 or even d2.</tspan> </tspan></text>
+   id="tspan3068">d4 or even d2.</tspan> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:119.628;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;stop-color:#000000"
+       style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:163.45;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;stop-color:#000000"
        x="673.50873"
        y="93.320999"
        id="text138413"
-       transform="translate(-227.83897,-58.047532)"><tspan
+       transform="translate(-227.59951,-63.31576)"><tspan
          x="673.50873"
          y="93.320999"
-         id="tspan208545">A warm and steady meal doubles the healing, while </tspan><tspan
+         id="tspan3072">A warm and steady meal doubles the healing, while skipping a meal doesn't </tspan><tspan
          x="673.50873"
          y="98.61266"
-         id="tspan208547">skipping a meal doesn't heal at all and makes the </tspan><tspan
-         x="673.50873"
-         y="103.90432"
-         id="tspan208551">character <tspan
+         id="tspan3076">heal at all and makes the character <tspan
    style="stroke-opacity:0.48"
-   id="tspan208549">hungry</tspan>, +2DR Strength and Will. </tspan></text>
+   id="tspan3074">hungry</tspan>, +2DR Strength and Will. </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:119.799;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
        x="673.3139"
        y="109.1018"
        id="text138417"
-       transform="translate(-227.83898,-56.460032)"><tspan
+       transform="translate(-227.83898,-66.757023)"><tspan
          x="673.3139"
          y="109.1018"
-         id="tspan208559">Starve after <tspan
+         id="tspan3084">Starve after <tspan
    style="stroke-opacity:0.996764"
-   id="tspan208553">2 days</tspan> without food, <tspan
+   id="tspan3078">2 days</tspan> without food, <tspan
    style="stroke-opacity:0.524444"
-   id="tspan208555">d4 hp is lost </tspan><tspan
+   id="tspan3080">d4 hp is lost </tspan><tspan
    style="stroke-opacity:0.506667"
-   id="tspan208557">daily</tspan>.</tspan></text>
+   id="tspan3082">daily</tspan>.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:117.011;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;stop-color:#000000"
+       style="font-size:3.88056px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:225.01;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;stop-color:#000000"
        x="674.28809"
        y="124.29812"
        id="text138421"
-       transform="translate(-228.89731,-64.397535)"><tspan
+       transform="translate(-228.89731,-76.282027)"><tspan
          x="674.28809"
          y="124.29812"
-         id="tspan208563">Without sleep a character is <tspan
+         id="tspan3088">Without sleep a character is <tspan
    style="stroke-opacity:0.515556"
-   id="tspan208561">tired</tspan>, +2DR Agility and </tspan><tspan
-         x="674.28809"
-         y="129.58978"
-         id="tspan208565">Presence every day. Won't heal on the next rest.</tspan></text>
+   id="tspan3086">tired</tspan>, +2DR Agility and Presence every day. Won't heal on the next rest.</tspan></text>
     <path
        style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.302359;stroke-dasharray:none;stroke-opacity:0.568889"
-       d="m 443.07517,30.248776 c 119.64495,0 119.04222,0 119.04222,0 l -0.30136,0.123685"
+       d="m 443.31463,24.980548 c 119.64495,0 119.04222,0 119.04222,0 l -0.30136,0.123685"
        id="path115130-2-5-6" />
     <path
        style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.302359;stroke-dasharray:none;stroke-opacity:0.568889"
-       d="m 442.60874,46.838892 c 119.64495,0 119.04222,0 119.04222,0 l -0.30136,0.123685"
+       d="m 442.60874,36.541901 c 119.64495,0 119.04222,0 119.04222,0 l -0.30136,0.123685"
        id="path115130-2-5-6-4" />
     <path
        style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.302359;stroke-dasharray:none;stroke-opacity:0.568889"
-       d="m 442.36943,53.940381 c 119.64496,0 119.04223,0 119.04223,0 l -0.30136,0.12369"
+       d="m 442.36943,43.64339 c 119.64496,0 119.04223,0 119.04223,0 l -0.30136,0.12369"
        id="path115130-2-5-6-2" />
     <path
        style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.302359;stroke-dasharray:none;stroke-opacity:0.568889"
        d="m 443.80525,19.143879 c 119.64495,0 119.04222,0 119.04222,0 l -0.30136,0.123685"
        id="path115130-2-5-6-5" />
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:0.38816;stroke-dasharray:none;stroke-opacity:1"
-       d="m 567.44629,4.7255947 c 0,64.0758023 0.17207,64.2576013 0.17207,64.2576013"
-       id="path7979-4-2-6-3" />
-    <path
-       style="fill:#000000;stroke:#000000;stroke-width:0.499335;stroke-dasharray:none;stroke-opacity:1"
-       d="m 442.88218,68.70619 c 124.56446,0 124.91785,-0.161482 124.91785,-0.161482"
+       style="fill:#000000;stroke:#000000;stroke-width:0.603472;stroke-dasharray:none;stroke-opacity:1"
+       d="m 442.59361,50.737524 c 204.35114,0 204.93089,-0.143771 204.93089,-0.143771"
        id="path7979-4-2-9" />
     <text
        xml:space="preserve"
@@ -1550,6 +1543,662 @@
          style="stroke:#000000;stroke-width:0.264;stroke-opacity:0.443366"
          x="346.76785"
          y="133.2345">Or just make shit up.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:88.4524;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="453.0676"
+       y="108.23814"
+       id="text1227"
+       transform="translate(213.67244,-88.452345)"><tspan
+         x="453.0676"
+         y="108.23814"
+         id="tspan3090">2 - Recently pillaged, shelves empty.
+</tspan><tspan
+         x="453.0676"
+         y="113.5298"
+         id="tspan3092">3 - Rich travelers recently passed </tspan><tspan
+         x="453.0676"
+         y="118.82146"
+         id="tspan3094">through, little stock but lots of money. 
+</tspan><tspan
+         x="453.0676"
+         y="124.11313"
+         id="tspan3096">4 - Moderately stocked, BUT...
+</tspan><tspan
+         x="453.0676"
+         y="129.40479"
+         id="tspan3098">5 - Well stocked with useless items.
+</tspan><tspan
+         x="453.0676"
+         y="134.69645"
+         id="tspan3100">6 - Recent battle, Weapons leftover.
+</tspan><tspan
+         x="453.0676"
+         y="139.9881"
+         id="tspan3102">7 - Overstocked, No silver leftover.
+</tspan><tspan
+         x="453.0676"
+         y="145.27976"
+         id="tspan3104">8 - Well stocked, Sells a rare item.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="667.17041"
+       y="12.487849"
+       id="text1440"><tspan
+         sodipodi:role="line"
+         id="tspan1438"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';stroke:#000000;stroke-width:0.264;stroke-opacity:1"
+         x="667.17041"
+         y="12.487849">Store Stock 2d4</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.397;stroke-dasharray:none;stroke-opacity:1"
+       d="m 663.52519,60.49998 c 200.52714,0 201.09604,-0.143552 201.09604,-0.143552"
+       id="path7979-4-2-9-0" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.257998;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.47309,52.198655 c 81.68995,0 81.27843,0 81.27843,0 l -0.20576,0.131895"
+       id="path115130-2-5-6-1" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.257998;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.40023,46.778897 c 81.68995,0 81.27843,0 81.27843,0 l -0.20576,0.131895"
+       id="path115130-2-5-6-1-7" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.257998;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.2805,41.560907 c 81.68995,0 81.27843,0 81.27843,0 l -0.20576,0.131895"
+       id="path115130-2-5-6-1-7-9" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.257998;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.2805,36.532143 c 81.68995,0 81.27843,0 81.27843,0 l -0.20576,0.131895"
+       id="path115130-2-5-6-1-7-7" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.257998;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.40023,31.144184 c 81.68995,0 81.27843,0 81.27843,0 l -0.20576,0.131895"
+       id="path115130-2-5-6-1-7-1" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.257998;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.40023,20.799832 c 81.68995,0 81.27843,0 81.27843,0 l -0.20576,0.131895"
+       id="path115130-2-5-6-1-7-4" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.257998;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 762.09049,10.379138 c 81.68995,0 81.27843,0 81.27843,0 l -0.20576,0.131895"
+       id="path115130-2-5-6-1-7-4-6" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.361702;stroke-dasharray:none;stroke-opacity:1"
+       d="m 759.73454,6.445064 c 0,54.029032 0.17718,54.182326 0.17718,54.182326"
+       id="path7979-4-2-6-3-5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="667.14917"
+       y="67.957794"
+       id="text4347"><tspan
+         sodipodi:role="line"
+         id="tspan4345"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';stroke:#000000;stroke-width:0.264;stroke-opacity:1"
+         x="667.14917"
+         y="67.957794">Merchants d8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="777.78198"
+       y="30.412043"
+       id="text5077"><tspan
+         sodipodi:role="line"
+         id="tspan5075"
+         style="stroke-width:0.264" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="666.53131"
+       y="74.5121"
+       id="text5807"><tspan
+         sodipodi:role="line"
+         id="tspan5805"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.53131"
+         y="74.5121">1 - Snake oil merchant, Tries to scam the players.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.53131"
+         y="79.803764"
+         id="tspan5809">2 - Scavenger, Sells junk. 1 in 8 chance of something useful.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.53131"
+         y="85.095421"
+         id="tspan5811">3 - Peddler, sells food and lesser goods. Dirt poor.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.53131"
+         y="90.387085"
+         id="tspan5813">4 - Smuggler,                        tries to get rid of &quot;their&quot; stock, Chased by guards.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.53131"
+         y="95.678749"
+         id="tspan5815">5 - Recently departed merchant, Well stocked, Charges high.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.53131"
+         y="100.97041"
+         id="tspan5817">6 - War merchant, sell                           high quality weapons.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.53131"
+         y="106.26208"
+         id="tspan5819">7 - &quot;Herbalist&quot;, Sells Illegal goods, Guards patrolling nearby.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.53131"
+         y="111.55373"
+         id="tspan5821">8 - Occult merchant, Will sell a              for a &quot;small&quot; favour.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.53131"
+         y="116.8454"
+         id="tspan5823" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="747.54559"
+       y="90.17778"
+       id="text5827"
+       transform="skewX(-29.343568)"><tspan
+         sodipodi:role="line"
+         id="tspan5825"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="747.54559"
+         y="90.17778">Desperately</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="774.94861"
+       y="100.9537"
+       id="text5831"
+       transform="skewX(-30.109568)"><tspan
+         sodipodi:role="line"
+         id="tspan5829"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="774.94861"
+         y="100.9537">suspiciously</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="784.98352"
+       y="111.62916"
+       id="text5835"
+       transform="skewX(-23.368044)"><tspan
+         sodipodi:role="line"
+         id="tspan5833"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="784.98352"
+         y="111.62916">Scroll</tspan></text>
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.41405,75.148829 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.102087"
+       id="path115130-2-5-6-1-1" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.43577,80.70281 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.102087"
+       id="path115130-2-5-6-1-1-6" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.50527,85.971038 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.102087"
+       id="path115130-2-5-6-1-1-5" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.38553,90.999801 c 112.44197,0 111.87554,0 111.87554,0 l -0.28323,0.102087"
+       id="path115130-2-5-6-1-1-5-3" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.38973,96.998604 c 112.44197,0 111.87554,0 111.87554,0 l -0.28323,0.10209"
+       id="path115130-2-5-6-1-1-5-3-4" />
+    <path
+       style="display:inline;fill:#d35f5f;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.34735,102.24775 c 112.44197,0 111.87554,0 111.87554,0 l -0.28323,0.10209"
+       id="path115130-2-5-6-1-1-5-3-5" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.19921,107.03129 c 112.44197,0 111.87554,0 111.87554,0 l -0.28323,0.10209"
+       id="path115130-2-5-6-1-1-5-3-5-3" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;stop-color:#000000"
+       x="775.5188"
+       y="13.884834"
+       id="text7509"><tspan
+         sodipodi:role="line"
+         id="tspan7507"
+         style="stroke-width:0.264"
+         x="775.5188"
+         y="13.884834" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:105.37;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="764.8512"
+       y="13.546179"
+       id="text8259"
+       transform="translate(-2.6034759,-9.2072536)"><tspan
+         x="764.8512"
+         y="13.546179"
+         id="tspan3106">
+</tspan><tspan
+         x="764.8512"
+         y="18.396879"
+         id="tspan3108">1 - Narrow track drawn by &quot;Animals&quot;. DR10 or lose it.
+</tspan><tspan
+         x="764.8512"
+         y="23.24758"
+         id="tspan3110">2 - Unrepaired Trade road, 
+</tspan><tspan
+         x="764.8512"
+         y="28.09828"
+         id="tspan3112">Riddled with Thieves and &quot;Merchants&quot;.
+</tspan><tspan
+         x="764.8512"
+         y="32.94898"
+         id="tspan3114">3 - Paved road, Riddled with holes in the ground,
+</tspan><tspan
+         x="764.8512"
+         y="37.799679"
+         id="tspan3116"> 
+</tspan><tspan
+         x="764.8512"
+         y="42.650379"
+         id="tspan3118">4 - Well paved, An Outpost Charges taxes, 
+</tspan><tspan
+         x="764.8512"
+         y="47.50108"
+         id="tspan3120">1 silver per item players carry.
+</tspan><tspan
+         x="764.8512"
+         y="52.35178"
+         id="tspan3122">5 - Road under repair, 
+</tspan><tspan
+         x="764.8512"
+         y="57.20248"
+         id="tspan3124">Repairsmen will make you turn back.
+</tspan><tspan
+         x="764.8512"
+         y="62.053181"
+         id="tspan3126">6 - Cobbled road, King's soldiers on patrol, 
+</tspan><tspan
+         x="764.8512"
+         y="66.903881"
+         id="tspan3128">DR14 if carrying Illegal goods.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="843.56702"
+       y="42.204849"
+       id="text8275"><tspan
+         sodipodi:role="line"
+         id="tspan8273"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';stroke:#000000;stroke-width:0.264;stroke-opacity:1"
+         x="843.56702"
+         y="42.204849">Road d6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="773.40332"
+       y="28.446989"
+       id="text8371"
+       transform="skewX(-22.065172)"><tspan
+         sodipodi:role="line"
+         id="tspan8369"
+         style="font-size:3.88056px;stroke-width:0.264"
+         x="773.40332"
+         y="28.446989">no human could have made these.</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.397;stroke-dasharray:none;stroke-opacity:1"
+       d="m 663.79212,114.66232 c 200.52714,0 201.09604,-0.14356 201.09604,-0.14356"
+       id="path7979-4-2-9-0-7-2" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="705.4599"
+       y="79.457428"
+       id="text8401"
+       transform="rotate(-0.9036627)"><tspan
+         sodipodi:role="line"
+         id="tspan8399"
+         style="font-size:3.52778px;stroke-width:0.264"
+         x="705.4599"
+         y="79.457428">For unknown merchants and traders</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="667.86761"
+       y="166.18864"
+       id="text9135"><tspan
+         sodipodi:role="line"
+         id="tspan9133"
+         style="stroke-width:0.264"
+         x="667.86761"
+         y="166.18864" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       x="666.67029"
+       y="122.43044"
+       id="text9865"><tspan
+         sodipodi:role="line"
+         id="tspan9863"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';stroke:#000000;stroke-width:0.264;stroke-opacity:1"
+         x="666.67029"
+         y="122.43044">Weather 2d8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="666.98004"
+       y="129.132"
+       id="text10595"><tspan
+         sodipodi:role="line"
+         id="tspan10593"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="129.132">2 - Roll twice and combine both</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="134.42366"
+         id="tspan10597">3 - Wicked hail, Dead in an Instant. (Find shelter or d8 damage)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="139.71533"
+         id="tspan10599">4 - Blood Rain, Unholy Tears. (DR6 or become infected)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="145.00699"
+         id="tspan10601">5 - Rain of Tar, Black Decay. (No travel progress until it stops)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="150.29866"
+         id="tspan10603">6 - Acid Rain, Melting Through Men. (Find shelter or d6 damage)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="155.59032"
+         id="tspan10605">7 - Syrupy Fog, Obscures Everything.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="160.88197"
+         id="tspan10607">8 - Pitch Black, Descent Into Void.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="166.17365"
+         id="tspan10609">9 - Numbing Frost, From Brave Men to Icy Statues.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="171.4653"
+         id="tspan10611">10 - Ashen Rain, Pale Storm.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="176.75696"
+         id="tspan10613">11 - Crackling Thunder, Heavenly Bombardment.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="182.04863"
+         id="tspan10615">12 - Gritty Wind, Turns Birds to Shreds.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="187.34029"
+         id="tspan10617">13 - Hammering Monsoon, Floods the Sky.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="192.63194"
+         id="tspan10619">14 - Heavy Mist, Covers the Ground.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="197.92361"
+         id="tspan10621">15 - Eerily Quiet, All Sound Muffled.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="666.98004"
+         y="203.21527"
+         id="tspan10623">16 - Aurora Borealis, but something's off...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="706.37244"
+       y="99.140038"
+       id="text10627"
+       transform="rotate(1.740737)"><tspan
+         sodipodi:role="line"
+         id="tspan10625"
+         style="stroke-width:0.264"
+         x="706.37244"
+         y="99.140038">Reroll when the weather becomes boring or you wanna spice it up.</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.397;stroke-dasharray:none;stroke-opacity:1"
+       d="m 664.40587,205.50631 c 200.52714,0 201.09604,-0.14356 201.09604,-0.14356"
+       id="path7979-4-2-9-0-7-2-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:1;stop-color:#000000"
+       x="666.96002"
+       y="213.13545"
+       id="text17187"><tspan
+         sodipodi:role="line"
+         id="tspan17185"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';stroke:#000000;stroke-width:0.264;stroke-opacity:1"
+         x="666.96002"
+         y="213.13545">Villages d12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:200.943;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="662.59937"
+       y="218.392"
+       id="text17917"
+       transform="translate(4.2333332,2.6458334)"><tspan
+         x="662.59937"
+         y="218.392"
+         id="tspan3130">1 - Burned down after a recent conflict, d6 silver can be found in the ashes.
+</tspan><tspan
+         x="662.59937"
+         y="223.68366"
+         id="tspan3132">2 - Recently Pillaged, No supplies to trade. Weary of outsiders.
+</tspan><tspan
+         x="662.59937"
+         y="228.97532"
+         id="tspan3134">3 - Savage Beasts and Monsters live in the village, Residents terrorised, Low stock.
+</tspan><tspan
+         x="662.59937"
+         y="234.26697"
+         id="tspan3136">4 - Ruled by Bandits, Spending over 25s will make them 
+</tspan><tspan
+         x="662.59937"
+         y="239.55863"
+         id="tspan3138">5 - An Inquisitor is passing through and burning d6 witches. 
+</tspan><tspan
+         x="662.59937"
+         y="244.85028"
+         id="tspan3140">DR14 or be searched for Unclean Magicks.
+</tspan><tspan
+         x="662.59937"
+         y="250.14194"
+         id="tspan3142">6 - The &quot;Village&quot; is well stocked, but the &quot;Residents&quot; want you to leave urgently.
+</tspan><tspan
+         x="662.59937"
+         y="255.4336"
+         id="tspan3144">7 - Eeger to trade, but hiding something...
+</tspan><tspan
+         x="662.59937"
+         y="260.72527"
+         id="tspan3146">8 - Home to an underground &quot;Herbalist&quot; market, Moderate Stock, 
+</tspan><tspan
+         x="662.59937"
+         y="266.01693"
+         id="tspan3148">Villagers mad at the &quot;Herbalists&quot; for bringing guards.
+</tspan><tspan
+         x="662.59937"
+         y="271.30858"
+         id="tspan3150">9 - Rich noble is passing through, 2d6 guards with him.
+</tspan><tspan
+         x="662.59937"
+         y="276.60024"
+         id="tspan3152">10 - Well off trading post, supplies plantiful.
+</tspan><tspan
+         x="662.59937"
+         y="281.8919"
+         id="tspan3154">11 - Wealthy Merchant has recently passed through, Traded All supplies for d2 Rare Items.
+</tspan><tspan
+         x="662.59937"
+         y="287.18355"
+         id="tspan3156">12 - What Village?
+</tspan></text>
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.6945,129.66617 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.10208"
+       id="path115130-2-5-6-1-1-4" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 667.08824,135.18199 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.10208"
+       id="path115130-2-5-6-1-1-4-3" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.89771,140.60047 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.10208"
+       id="path115130-2-5-6-1-1-4-0" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.72839,145.6591 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.10208"
+       id="path115130-2-5-6-1-1-4-08" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.2204,151.24689 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.10208"
+       id="path115130-2-5-6-1-1-4-9" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.38973,156.64418 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.10208"
+       id="path115130-2-5-6-1-1-4-087" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.58025,161.57586 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.10208"
+       id="path115130-2-5-6-1-1-4-8" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.2416,166.99433 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.10208"
+       id="path115130-2-5-6-1-1-4-85" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.38973,172.07415 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.10208"
+       id="path115130-2-5-6-1-1-4-35" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.22041,177.66195 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.10208"
+       id="path115130-2-5-6-1-1-4-6" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.2204,182.74176 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.10208"
+       id="path115130-2-5-6-1-1-4-87" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.55906,188.16024 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.10208"
+       id="path115130-2-5-6-1-1-4-64" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.72839,193.57871 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.10208"
+       id="path115130-2-5-6-1-1-4-98" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.266302;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.72839,198.82785 c 112.44197,0 111.87553,0 111.87553,0 l -0.28322,0.10208"
+       id="path115130-2-5-6-1-1-4-80" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.304;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.71541,222.04971 c 155.67786,0 154.89361,0 154.89361,0 l -0.39212,0.0959"
+       id="path115130-2-5-6-1-1-4-4" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.304;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 665.88179,227.46667 c 155.67786,0 154.89361,0 154.89361,0 l -0.39212,0.0959"
+       id="path115130-2-5-6-1-1-4-4-4" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.304;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.22045,233.05447 c 155.67786,0 154.89361,0 154.89361,0 l -0.39212,0.0959"
+       id="path115130-2-5-6-1-1-4-4-2" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.304;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.5591,238.13429 c 155.67786,0 154.89361,0 154.89361,0 l -0.39212,0.0959"
+       id="path115130-2-5-6-1-1-4-4-5" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="900.29706"
+       y="236.99471"
+       id="text2248"
+       transform="skewX(-25.371939)"><tspan
+         sodipodi:role="line"
+         id="tspan2246"
+         style="font-size:4.23333px;stroke-width:0.264"
+         x="900.29706"
+         y="236.99471">interested.</tspan></text>
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.304;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.05112,248.1246 c 155.67786,0 154.89361,0 154.89361,0 l -0.39212,0.0959"
+       id="path115130-2-5-6-1-1-4-4-5-6" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.304;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.05112,253.69121 c 155.67786,0 154.89361,0 154.89361,0 l -0.39212,0.0959"
+       id="path115130-2-5-6-1-1-4-4-5-7" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.304;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.38978,259.13087 c 155.67786,0 154.89361,0 154.89361,0 l -0.39212,0.0959"
+       id="path115130-2-5-6-1-1-4-4-5-8" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.304;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.38977,269.45983 c 155.67786,0 154.89361,0 154.89361,0 l -0.39212,0.0959"
+       id="path115130-2-5-6-1-1-4-4-5-9" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.304;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.22045,274.8783 c 155.67786,0 154.89361,0 154.89361,0 l -0.39212,0.0959"
+       id="path115130-2-5-6-1-1-4-4-5-9-5" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.304;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 665.8818,279.95812 c 155.67786,0 154.89361,0 154.89361,0 l -0.39212,0.0959"
+       id="path115130-2-5-6-1-1-4-4-5-9-3" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.304;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 666.22045,285.71524 c 155.67786,0 154.89361,0 154.89361,0 l -0.39212,0.0959"
+       id="path115130-2-5-6-1-1-4-4-5-9-7" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.257998;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 762.09049,19.670954 c 81.68995,0 81.27843,0 81.27843,0 l -0.20576,0.131895"
+       id="path115130-2-5-6-1-7-4-7" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.257998;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 761.92116,29.322607 c 81.68995,0 81.27843,0 81.27843,0 l -0.20576,0.131895"
+       id="path115130-2-5-6-1-7-4-2" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.255246;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 761.9339,39.287555 c 74.38599,0 74.01126,0 74.01126,0 l -0.18736,0.141772"
+       id="path115130-2-5-6-1-7-4-5" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.257998;stroke-dasharray:none;stroke-opacity:0.568889"
+       d="m 761.92116,48.795241 c 81.68995,0 81.27843,0 81.27843,0 l -0.20576,0.131895"
+       id="path115130-2-5-6-1-7-4-57" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="713.64563"
+       y="-8.1195374"
+       id="text3161"
+       transform="rotate(1.62479)"><tspan
+         sodipodi:role="line"
+         id="tspan3159"
+         style="stroke-width:0.264"
+         x="713.64563"
+         y="-8.1195374">When Out of Supplies</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1559,13 +2208,13 @@
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="678.38373"
+       x="898.38373"
        y="7.4823074"
        id="text9468"><tspan
          sodipodi:role="line"
          id="tspan9466"
          style="stroke-width:0.264"
-         x="678.38373"
+         x="898.38373"
          y="7.4823074">Crushing</tspan></text>
     <text
        xml:space="preserve"
@@ -1573,62 +2222,62 @@
        x="452.81207"
        y="46.211262"
        id="text10198"
-       transform="translate(225.91036,-33.500983)"><tspan
+       transform="translate(445.91037,-33.500983)"><tspan
          x="452.81207"
          y="46.211262"
-         id="tspan208569"><tspan
+         id="tspan3160"><tspan
    style="stroke-opacity:0.973333"
-   id="tspan208567">1.</tspan> Hit in the gut. Lose next round coughing blood.
+   id="tspan3158">1.</tspan> Hit in the gut. Lose next round coughing blood.
 </tspan><tspan
          x="452.81207"
          y="51.502926"
-         id="tspan208573"><tspan
+         id="tspan3164"><tspan
    style="stroke-opacity:0.977778"
-   id="tspan208571">2-3.</tspan> Knocked out for d4 rounds.
+   id="tspan3162">2-3.</tspan> Knocked out for d4 rounds.
 </tspan><tspan
          x="452.81207"
          y="56.79459"
-         id="tspan208577"><tspan
+         id="tspan3168"><tspan
    style="stroke-opacity:0.973333"
-   id="tspan208575">4.</tspan> Shattered limb.
+   id="tspan3166">4.</tspan> Shattered limb.
 </tspan><tspan
          x="452.81207"
          y="62.086254"
-         id="tspan208583"><tspan
+         id="tspan3174"><tspan
    style="stroke-opacity:0.977778"
-   id="tspan208579">5.</tspan> Fractured skull. <tspan
+   id="tspan3170">5.</tspan> Fractured skull. <tspan
    style="stroke-opacity:0.497778"
-   id="tspan208581">Bleeding out in d4 minutes</tspan>. You'll hear a ringing forever.
+   id="tspan3172">Bleeding out in d4 minutes</tspan>. You'll hear a ringing forever.
 </tspan><tspan
          x="452.81207"
          y="67.377919"
-         id="tspan208589"><tspan
+         id="tspan3180"><tspan
    style="stroke-opacity:0.96"
-   id="tspan208585">6.</tspan> Caved-in skull. <tspan
+   id="tspan3176">6.</tspan> Caved-in skull. <tspan
    style="stroke-opacity:0.462222"
-   id="tspan208587">Death in d2 rounds</tspan>.
+   id="tspan3178">Death in d2 rounds</tspan>.
 </tspan><tspan
          x="452.81207"
          y="72.669583"
-         id="tspan208593"><tspan
+         id="tspan3184"><tspan
    style="stroke-opacity:0.995556"
-   id="tspan208591">7-8.</tspan> Hit to chest explodes heart. Blood gushes from your mouth, eyes, and ears.
+   id="tspan3182">7-8.</tspan> Hit to chest explodes heart. Blood gushes from your mouth, eyes, and ears.
 </tspan><tspan
          x="452.81207"
          y="77.961247"
-         id="tspan208597"><tspan
+         id="tspan3188"><tspan
    style="stroke-opacity:0.951111"
-   id="tspan208595">9+</tspan> Chest completely crushed. Your corpse is a blend of blood, bone, and equipment.</tspan></text>
+   id="tspan3186">9+</tspan> Chest completely crushed. Your corpse is a blend of blood, bone, and equipment.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="678.68823"
+       x="898.68823"
        y="52.644402"
        id="text20638"><tspan
          sodipodi:role="line"
          id="tspan20636"
          style="stroke-width:0.264"
-         x="678.68823"
+         x="898.68823"
          y="52.644402">Puncturing</tspan></text>
     <text
        xml:space="preserve"
@@ -1636,91 +2285,91 @@
        x="452.82809"
        y="108.23813"
        id="text21368"
-       transform="translate(226.33905,-50.538155)"><tspan
+       transform="translate(446.33906,-50.538155)"><tspan
          x="452.82809"
          y="108.23813"
-         id="tspan208601"><tspan
+         id="tspan3192"><tspan
    style="stroke-opacity:0.977778"
-   id="tspan208599">1. </tspan>Bullet lodged in your ribcage. Remove it before acting or become infected.
+   id="tspan3190">1. </tspan>Bullet lodged in your ribcage. Remove it before acting or become infected.
 </tspan><tspan
          x="452.82809"
          y="113.52979"
-         id="tspan208605"><tspan
+         id="tspan3196"><tspan
    style="stroke-opacity:0.96"
-   id="tspan208603">2-3.</tspan> Arrow to the knee. you'll limp even if you survive.
+   id="tspan3194">2-3.</tspan> Arrow to the knee. you'll limp even if you survive.
 </tspan><tspan
          x="452.82809"
          y="118.82145"
-         id="tspan208611"><tspan
+         id="tspan3202"><tspan
    style="stroke-opacity:0.96"
-   id="tspan208607">4.</tspan> Nicked an artery. If you move, you will <tspan
+   id="tspan3198">4.</tspan> Nicked an artery. If you move, you will <tspan
    style="stroke-opacity:0.44"
-   id="tspan208609">bleed out in d4 minutes</tspan>.
+   id="tspan3200">bleed out in d4 minutes</tspan>.
 </tspan><tspan
          x="452.82809"
          y="124.11312"
-         id="tspan208615"><tspan
+         id="tspan3206"><tspan
    style="stroke-opacity:0.964444"
-   id="tspan208613">5.</tspan> You fall to the ground, test Toughness DR14 or loose movement from waist down.
+   id="tspan3204">5.</tspan> You fall to the ground, test Toughness DR14 or loose movement from waist down.
 </tspan><tspan
          x="452.82809"
          y="129.40478"
-         id="tspan208621"><tspan
+         id="tspan3212"><tspan
    style="stroke-opacity:0.924444"
-   id="tspan208617">6-7.</tspan> Shot lodged in eye socket. Brain leaking out. <tspan
+   id="tspan3208">6-7.</tspan> Shot lodged in eye socket. Brain leaking out. <tspan
    style="stroke-opacity:0.52"
-   id="tspan208619">Death in d2 rounds</tspan>.
+   id="tspan3210">Death in d2 rounds</tspan>.
 </tspan><tspan
          x="452.82809"
          y="134.69645"
-         id="tspan208625"><tspan
+         id="tspan3216"><tspan
    style="stroke-opacity:0.955556"
-   id="tspan208623">8.</tspan> Headshot. Dead.
+   id="tspan3214">8.</tspan> Headshot. Dead.
 </tspan><tspan
          x="452.82809"
          y="139.9881"
-         id="tspan208629"><tspan
+         id="tspan3220"><tspan
    style="stroke-opacity:0.973333"
-   id="tspan208627">9+ </tspan>You're dead, ripped to shreds. Blood sprays everywhere.
+   id="tspan3218">9+ </tspan>You're dead, ripped to shreds. Blood sprays everywhere.
 </tspan><tspan
          x="452.82809"
          y="145.27976"
-         id="tspan208631">
+         id="tspan3222">
 </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="679.16711"
+       x="899.16711"
        y="97.434792"
        id="text22895"><tspan
          sodipodi:role="line"
          id="tspan22893"
          style="font-size:4.93889px;stroke-width:0.264"
-         x="679.16711"
+         x="899.16711"
          y="97.434792">Ripping</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="679.16711"
+       x="899.16711"
        y="102.27919"
        id="text24357"><tspan
          sodipodi:role="line"
          id="tspan24355"
          style="stroke-width:0.264"
-         x="679.16711"
+         x="899.16711"
          y="102.27919"><tspan
    style="stroke:#000000;stroke-opacity:0.968889"
    id="tspan104229">1.</tspan> Lose d4 fingers.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.16711"
+         x="899.16711"
          y="107.57085"
          id="tspan24359"><tspan
    style="stroke:#000000;stroke-opacity:0.924444"
    id="tspan104233">2-3.</tspan> Lose an eye or ear.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.16711"
+         x="899.16711"
          y="112.86252"
          id="tspan25815"><tspan
    style="stroke:#000000;stroke-opacity:0.968889"
@@ -1729,7 +2378,7 @@
    id="tspan122306">Bleeding out in d4 minutes</tspan>.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.16711"
+         x="899.16711"
          y="118.15417"
          id="tspan25817"><tspan
    style="stroke:#000000;stroke-opacity:0.951111"
@@ -1738,7 +2387,7 @@
    id="tspan122302">Death in d4 rounds</tspan>.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.16711"
+         x="899.16711"
          y="123.44584"
          id="tspan25819"><tspan
    style="stroke:#000000;stroke-opacity:0.933333"
@@ -1747,57 +2396,57 @@
    id="tspan122310">Death in d2 rounds</tspan>.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.16711"
+         x="899.16711"
          y="128.7375"
          id="tspan26547"><tspan
    style="stroke:#000000;stroke-opacity:0.955556"
    id="tspan104249">9.</tspan> Decapitation.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.16711"
+         x="899.16711"
          y="134.02916"
          id="tspan27275"><tspan
    style="stroke:#000000;stroke-opacity:0.968889"
    id="tspan104253">10+</tspan> Cut from neck to waist. Blood pools around your corpse, making ground slippery.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.16711"
+         x="899.16711"
          y="139.32083"
          id="tspan24361" /></text>
     <text
        xml:space="preserve"
        style="font-size:4.93889px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="679.19385"
+       x="899.19385"
        y="141.67863"
        id="text27279"><tspan
          sodipodi:role="line"
          id="tspan27277"
          style="font-size:4.93889px;stroke-width:0.264"
-         x="679.19385"
+         x="899.19385"
          y="141.67863">Burning</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="679.68622"
+       x="899.68622"
        y="146.58241"
        id="text28009"><tspan
          sodipodi:role="line"
          id="tspan28007"
          style="stroke-width:0.264"
-         x="679.68622"
+         x="899.68622"
          y="146.58241"><tspan
    style="stroke:#000000;stroke-opacity:0.955556"
    id="tspan104257">1.</tspan> Fumes close your throat. Toughness DR12 test to act again.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.68622"
+         x="899.68622"
          y="151.87407"
          id="tspan28013"><tspan
    style="stroke:#000000;stroke-opacity:0.946667"
    id="tspan104261">2-3.</tspan> Limb Destroyed.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.68622"
+         x="899.68622"
          y="157.16574"
          id="tspan28015"><tspan
    style="stroke:#000000;stroke-opacity:0.964444"
@@ -1806,7 +2455,7 @@
    id="tspan122318">Bleeding out in d6 minutes</tspan>.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.68622"
+         x="899.68622"
          y="162.4574"
          id="tspan28017"><tspan
    style="stroke:#000000;stroke-opacity:0.995556"
@@ -1815,50 +2464,50 @@
    id="tspan122314">Death in d2 rounds</tspan>.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.68622"
+         x="899.68622"
          y="167.74905"
          id="tspan28019"><tspan
    style="stroke:#000000;stroke-opacity:0.937778"
    id="tspan104273">7-8.</tspan> Blackened skin. Stench of burnt meat and hair. You're dead.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.68622"
+         x="899.68622"
          y="173.04073"
          id="tspan28021"><tspan
    style="stroke:#000000;stroke-opacity:0.924444"
    id="tspan104277">9+</tspan> Burned to oblivion, along with everything you had.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.68622"
+         x="899.68622"
          y="178.33238"
          id="tspan28011" /></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="679.15704"
+       x="899.15704"
        y="180.76529"
        id="text33970"><tspan
          sodipodi:role="line"
          id="tspan33968"
          style="stroke-width:0.264"
-         x="679.15704"
+         x="899.15704"
          y="180.76529">Toxic</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="679.68622"
+       x="899.68622"
        y="186.12024"
        id="text35426"><tspan
          sodipodi:role="line"
          id="tspan35424"
          style="stroke-width:0.264"
-         x="679.68622"
+         x="899.68622"
          y="186.12024"><tspan
    style="stroke:#000000;stroke-opacity:0.982222"
    id="tspan104281">1-2.</tspan> Nauseated. DR+4 to any test until you drink fresh water and vomit.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.68622"
+         x="899.68622"
          y="191.4119"
          id="tspan35428"><tspan
    style="stroke:#000000;stroke-opacity:0.924444"
@@ -1867,7 +2516,7 @@
    id="tspan122322">Lose d2 Toughness</tspan>.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.68622"
+         x="899.68622"
          y="196.70357"
          id="tspan35430"><tspan
    style="stroke:#000000;stroke-opacity:0.946667"
@@ -1876,7 +2525,7 @@
    id="tspan122326">Death in d4+1 rounds without help</tspan>.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.68622"
+         x="899.68622"
          y="201.99522"
          id="tspan35432"><tspan
    style="stroke:#000000;stroke-opacity:0.964444"
@@ -1887,7 +2536,7 @@
    id="tspan122342">Suffocate in d2 min</tspan>, and can't see or speak.</tspan></tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.68622"
+         x="899.68622"
          y="207.2869"
          id="tspan36162"><tspan
    style="stroke:#000000;stroke-opacity:0.937778"
@@ -1896,50 +2545,50 @@
    id="tspan122338">Death in d2 rounds</tspan>.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.68622"
+         x="899.68622"
          y="212.57855"
          id="tspan36890"><tspan
    style="stroke:#000000;stroke-opacity:0.964444"
    id="tspan104301">8+</tspan> Your insides liquify. Your skin comes off in patches as you collapse.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="679.68622"
+         x="899.68622"
          y="217.87021"
          id="tspan36892" /></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="679.7074"
+       x="899.7074"
        y="220.7482"
        id="text40526"><tspan
          sodipodi:role="line"
          id="tspan40524"
          style="stroke-width:0.264"
-         x="679.7074"
+         x="899.7074"
          y="220.7482">Tooth and Claw</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="680.65417"
+       x="900.65417"
        y="226.25307"
        id="text41256"><tspan
          sodipodi:role="line"
          id="tspan41254"
          style="font-size:4.23333px;stroke-width:0.264"
-         x="680.65417"
+         x="900.65417"
          y="226.25307"><tspan
    style="stroke:#000000;stroke-opacity:0.933333"
    id="tspan104305">1-2.</tspan> Beast latches itself onto your arm. Automatic damage until removed.</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;stroke-width:0.264"
-         x="680.65417"
+         x="900.65417"
          y="231.54472"
          id="tspan43440"><tspan
    style="stroke:#000000;stroke-opacity:0.991111"
    id="tspan104309">3.</tspan> Claw to the face. Eye detroyed.</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;stroke-width:0.264"
-         x="680.65417"
+         x="900.65417"
          y="236.8364"
          id="tspan43442"><tspan
    style="stroke:#000000;stroke-opacity:0.955556"
@@ -1948,7 +2597,7 @@
    id="tspan122346">Bleeding out in d4 minutes</tspan>.</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;stroke-width:0.264"
-         x="680.65417"
+         x="900.65417"
          y="242.12805"
          id="tspan43444"><tspan
    style="stroke:#000000;stroke-opacity:0.964444"
@@ -1957,7 +2606,7 @@
    id="tspan122354">Bleeding out in d2 minutes</tspan> with the beast on top of you.</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;stroke-width:0.264"
-         x="680.65417"
+         x="900.65417"
          y="247.41971"
          id="tspan45624"><tspan
    style="stroke:#000000;stroke-opacity:0.955556"
@@ -1966,128 +2615,128 @@
    id="tspan122350">Death in d2 rounds</tspan>.</tspan><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;stroke-width:0.264"
-         x="680.65417"
+         x="900.65417"
          y="252.71138"
          id="tspan46352"><tspan
    style="stroke:#000000;stroke-opacity:0.964444"
    id="tspan104325">8+</tspan> Face bitten off. Then head. Then neck. Gore galore.</tspan></text>
     <path
        style="display:inline;fill:#800080;fill-opacity:0.370213;stroke:#000000;stroke-width:0.494001;stroke-dasharray:none;stroke-opacity:0.96"
-       d="m 678.4082,214.84124 c 175.64244,0 175.64244,0 175.64244,0"
+       d="m 898.40821,214.84124 c 175.64239,0 175.64239,0 175.64239,0"
        id="path103159" />
     <path
        style="display:inline;fill:#800080;fill-opacity:0.370213;stroke:#000000;stroke-width:0.494001;stroke-dasharray:none;stroke-opacity:0.96"
-       d="m 677.39294,175.41475 c 175.64244,0 175.64244,0 175.64244,0"
+       d="m 897.39295,175.41475 c 175.64245,0 175.64245,0 175.64245,0"
        id="path103159-6" />
     <path
        style="display:inline;fill:#800080;fill-opacity:0.370213;stroke:#000000;stroke-width:0.494001;stroke-dasharray:none;stroke-opacity:0.96"
-       d="m 677.05451,136.66512 c 175.64244,0 175.64244,0 175.64244,0"
+       d="m 897.05452,136.66512 c 175.64248,0 175.64248,0 175.64248,0"
        id="path103159-3" />
     <path
        style="display:inline;fill:#800080;fill-opacity:0.370213;stroke:#000000;stroke-width:0.494001;stroke-dasharray:none;stroke-opacity:0.96"
-       d="m 677.05452,91.993026 c 175.64244,0 175.64244,0 175.64244,0"
+       d="m 897.05453,91.993026 c 175.64247,0 175.64247,0 175.64247,0"
        id="path103159-4" />
     <path
        style="display:inline;fill:#800080;fill-opacity:0.370213;stroke:#000000;stroke-width:0.494001;stroke-dasharray:none;stroke-opacity:0.96"
-       d="m 676.20845,47.490177 c 175.64244,0 175.64244,0 175.64244,0"
+       d="m 896.20846,47.490177 c 175.64244,0 175.64244,0 175.64244,0"
        id="path103159-41" />
     <path
        style="display:inline;fill:#800080;fill-opacity:0.370213;stroke:#000000;stroke-width:0.494001;stroke-dasharray:none;stroke-opacity:0.96"
-       d="m 678.239,255.39028 c 175.64244,0 175.64244,0 175.64244,0"
+       d="m 898.23901,255.39028 c 175.64239,0 175.64239,0 175.64239,0"
        id="path103159-68" />
     <text
        xml:space="preserve"
        style="font-size:30.3874px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.284253;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="713.24005"
+       x="950.42554"
        y="36.559258"
        id="text24088"
-       transform="scale(0.92754416,1.0781158)"><tspan
+       transform="scale(0.92754415,1.0781158)"><tspan
          sodipodi:role="line"
          id="tspan24086"
          style="stroke-width:0.284253"
-         x="713.24005"
+         x="950.42554"
          y="36.559258">B</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30.3874px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.284253;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="713.24005"
+       x="950.42554"
        y="84.484177"
        id="text24105"
-       transform="scale(0.92754416,1.0781158)"><tspan
+       transform="scale(0.92754415,1.0781158)"><tspan
          sodipodi:role="line"
          id="tspan24103"
          style="stroke-width:0.284253"
-         x="713.24005"
+         x="950.42554"
          y="84.484177">R</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30.3874px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.284253;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="714.78601"
+       x="951.9715"
        y="130.86319"
        id="text24109"
-       transform="scale(0.92754416,1.0781158)"><tspan
+       transform="scale(0.92754415,1.0781158)"><tspan
          sodipodi:role="line"
          id="tspan24107"
          style="stroke-width:0.284253"
-         x="714.78601"
+         x="951.9715"
          y="130.86319">o</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30.3874px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.284253;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="714.73157"
+       x="951.91705"
        y="178.01511"
        id="text24113"
-       transform="scale(0.92754416,1.0781158)"><tspan
+       transform="scale(0.92754415,1.0781158)"><tspan
          sodipodi:role="line"
          id="tspan24111"
          style="stroke-width:0.284253"
-         x="714.73157"
+         x="951.91705"
          y="178.01511">k</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30.3874px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.284253;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="716.0744"
+       x="953.25989"
        y="221.30217"
        id="text24117"
-       transform="scale(0.92754416,1.0781158)"><tspan
+       transform="scale(0.92754415,1.0781158)"><tspan
          sodipodi:role="line"
          id="tspan24115"
          style="stroke-width:0.284253"
-         x="716.0744"
+         x="953.25989"
          y="221.30217">e</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:30.3874px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.284253;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="714.52838"
+       x="951.71387"
        y="263.04315"
        id="text24121"
-       transform="scale(0.92754416,1.0781158)"><tspan
+       transform="scale(0.92754415,1.0781158)"><tspan
          sodipodi:role="line"
          id="tspan24119"
          style="stroke-width:0.284253"
-         x="714.52838"
+         x="951.71387"
          y="263.04315">n</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;stop-color:#000000"
-       x="680.06732"
+       x="900.06732"
        y="260.66507"
        id="text51626"><tspan
          sodipodi:role="line"
          id="tspan51624"
          style="stroke-width:0.264"
-         x="680.06732"
+         x="900.06732"
          y="260.66507">Trauma</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;stop-color:#000000"
-       x="680.17303"
+       x="900.17303"
        y="265.06757"
        id="text51630"><tspan
          sodipodi:role="line"
          id="tspan51628"
          style="stroke-width:0.264"
-         x="680.17303"
+         x="900.17303"
          y="265.06757"><tspan
    style="stroke:#000000;stroke-opacity:0.951111"
    id="tspan104349">1-2.</tspan> Personality affected: <tspan
@@ -2095,21 +2744,21 @@
    id="tspan40740">get a Bad Habit.</tspan></tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="680.17303"
+         x="900.17303"
          y="270.35922"
          id="tspan51632"><tspan
    style="stroke:#000000;stroke-opacity:0.946667"
    id="tspan104341">3.</tspan> Panic attack, fight, flee, or freeze.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="680.17303"
+         x="900.17303"
          y="275.65088"
          id="tspan53086"><tspan
    style="stroke:#000000;stroke-opacity:0.946667"
    id="tspan104345">4.</tspan> Seizure for d4 rounds and chew your tongue off.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="680.17303"
+         x="900.17303"
          y="280.94257"
          id="tspan53814"><tspan
    style="stroke:#000000;stroke-opacity:0.906667"
@@ -2118,14 +2767,14 @@
    id="tspan125075">Decrease Prescence by 1</tspan>.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="680.17303"
+         x="900.17303"
          y="286.23422"
          id="tspan54542"><tspan
    style="stroke:#000000;stroke-opacity:0.902222"
    id="tspan104333">7. </tspan>Drop your weapons and walk crying to the nearest sharp point.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="680.17303"
+         x="900.17303"
          y="291.52588"
          id="tspan56724"><tspan
    style="stroke:#000000;stroke-opacity:0.951111"
@@ -2134,19 +2783,19 @@
    id="tspan125079">Anyone who sees you takes 1 damage</tspan>.</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264"
-         x="680.17303"
+         x="900.17303"
          y="296.81754"
          id="tspan55996" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:normal;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';text-decoration-color:#000000;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
-       x="889.98395"
+       x="1109.984"
        y="12.25077"
        id="text124880"><tspan
          sodipodi:role="line"
          id="tspan124878"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:'XXII DaemonRunes';-inkscape-font-specification:'XXII DaemonRunes';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264;stroke-opacity:1"
-         x="889.98395"
+         x="1109.984"
          y="12.25077">Arcane Catastrophes d20</tspan></text>
     <text
        xml:space="preserve"
@@ -2154,29 +2803,29 @@
        x="1774.2693"
        y="38.049091"
        id="text8585"
-       transform="translate(-889.26958,-17.098889)"><tspan
+       transform="translate(-669.26957,-17.098889)"><tspan
          x="1774.2693"
          y="38.049091"
-         id="tspan208635"><tspan
+         id="tspan3226"><tspan
    style="stroke-opacity:0.977778"
-   id="tspan208633">1</tspan> Perhaps it’s for the best. HE emerges from the shadows. At </tspan><tspan
+   id="tspan3224">1</tspan> Perhaps it’s for the best. HE emerges from the shadows. At </tspan><tspan
          x="1774.2693"
          y="43.340756"
-         id="tspan208637">least your suffering is short, almost instantaneous, as the </tspan><tspan
+         id="tspan3228">least your suffering is short, almost instantaneous, as the </tspan><tspan
          x="1774.2693"
          y="48.63242"
-         id="tspan208639">two-headed basilisk devours you.</tspan></text>
+         id="tspan3230">two-headed basilisk devours you.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="975.78223"
+       x="1195.7822"
        y="31.980579"
        id="text8589"
        transform="skewX(-25.033269)"><tspan
          sodipodi:role="line"
          id="tspan8587"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';stroke-width:0.264"
-         x="975.78223"
+         x="1195.7822"
          y="31.980579">SHE emerges instead.</tspan></text>
     <text
        xml:space="preserve"
@@ -2184,34 +2833,34 @@
        x="1850.0087"
        y="12.683029"
        id="text8593"
-       transform="matrix(1,0,-0.38876285,1,-882.7761,-0.79667592)"><tspan
+       transform="matrix(1,0,-0.38876285,1,-662.77609,-0.79667592)"><tspan
          x="1850.0087"
          y="12.683029"
-         id="tspan208641">Effects in cursive are amplified additions to the basic effect</tspan></text>
+         id="tspan3232">Effects in cursive are amplified additions to the basic effect</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.364;stroke-dasharray:none;stroke-opacity:0;stop-color:#000000"
-       x="885.51678"
+       x="1105.5168"
        y="40.374802"
        id="text8597"><tspan
          sodipodi:role="line"
          id="tspan8595"
          style="font-size:4.23333px;stroke-width:0.364;stroke-dasharray:none"
-         x="885.51678"
+         x="1105.5168"
          y="40.374802"><tspan
    style="stroke:#000000;stroke-opacity:0.991111"
    id="tspan100252">2-3</tspan> Roll again, but the result that you get is GREATLY amplified.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="920.9364"
+       x="1140.9364"
        y="45.700768"
        id="text8601"
        transform="skewX(-33.840022)"><tspan
          sodipodi:role="line"
          id="tspan8599"
          style="font-size:4.23333px;stroke-width:0.264"
-         x="920.9364"
+         x="1140.9364"
          y="45.700768">Roll again, and combine both effects. Both are amplified.</tspan></text>
     <text
        xml:space="preserve"
@@ -2219,26 +2868,26 @@
        x="1771.1699"
        y="65.485191"
        id="text8605"
-       transform="translate(-885.75999,-10.98717)"><tspan
+       transform="translate(-665.75998,-10.98717)"><tspan
          x="1771.1699"
          y="65.485191"
-         id="tspan208645"><tspan
+         id="tspan3236"><tspan
    style="stroke-opacity:0.995556"
-   id="tspan208643">4-7</tspan> The Power works, but fate or a demonic force perverts its effects </tspan><tspan
+   id="tspan3234">4-7</tspan> The Power works, but fate or a demonic force perverts its effects </tspan><tspan
          x="1771.1699"
          y="70.776852"
-         id="tspan208647">to your precise disadvantage.</tspan></text>
+         id="tspan3238">to your precise disadvantage.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="997.74902"
+       x="1217.749"
        y="59.766994"
        id="text10840"
        transform="skewX(-37.165841)"><tspan
          sodipodi:role="line"
          id="tspan10838"
          style="font-size:4.23333px;stroke-width:0.264"
-         x="997.74902"
+         x="1217.749"
          y="59.766994">The power is automatically a crit.</tspan></text>
     <text
        xml:space="preserve"
@@ -2246,26 +2895,26 @@
        x="1811.7809"
        y="63.793068"
        id="text10844"
-       transform="translate(-926.7308,5.5219719)"><tspan
+       transform="translate(-706.73079,5.5219719)"><tspan
          x="1811.7809"
          y="63.793068"
-         id="tspan208651"><tspan
+         id="tspan3242"><tspan
    style="stroke-opacity:0.982222"
-   id="tspan208649">8</tspan> The scroll crumbles to tendrils of fine black powder which reach for your nose and </tspan><tspan
+   id="tspan3240">8</tspan> The scroll crumbles to tendrils of fine black powder which reach for your nose and </tspan><tspan
          x="1811.7809"
          y="69.084729"
-         id="tspan208653">mouth. Make a DR14 Toughness test or lose d8 HP.</tspan></text>
+         id="tspan3244">mouth. Make a DR14 Toughness test or lose d8 HP.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="1032.5488"
+       x="1252.5488"
        y="74.529182"
        id="text10848"
        transform="skewX(-29.728765)"><tspan
          sodipodi:role="line"
          id="tspan10846"
          style="font-size:4.23333px;stroke-width:0.264"
-         x="1032.5488"
+         x="1252.5488"
          y="74.529182">Test DR16 Will or become posessed.</tspan></text>
     <text
        xml:space="preserve"
@@ -2273,51 +2922,51 @@
        x="1798.2439"
        y="79.191391"
        id="text10856"
-       transform="translate(-912.75699,5.0445501)"><tspan
+       transform="translate(-692.75698,5.0445501)"><tspan
          x="1798.2439"
          y="79.191391"
-         id="tspan208657"><tspan
+         id="tspan3248"><tspan
    style="stroke-opacity:0.995556"
-   id="tspan208655">9</tspan> The sky warps and stars spin like wheels. Thrown one day into the future, </tspan><tspan
+   id="tspan3246">9</tspan> The sky warps and stars spin like wheels. Thrown one day into the future, </tspan><tspan
          x="1798.2439"
          y="84.483052"
-         id="tspan208659">you arrive vomiting time as evaporating silver bile. A Misery is fulfilled.</tspan></text>
+         id="tspan3250">you arrive vomiting time as evaporating silver bile. A Misery is fulfilled.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:124.95;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
        x="1868.9746"
        y="80.71431"
        id="text10860"
-       transform="matrix(1,0,-0.63578261,1,-932.35878,14.2545)"><tspan
+       transform="matrix(1,0,-0.63578261,1,-712.35877,14.2545)"><tspan
          x="1868.9746"
          y="80.71431"
-         id="tspan208661">Thrown 2d4 days into the future, you age d12\*5 years.</tspan></text>
+         id="tspan3252">Thrown 2d4 days into the future, you age d12\*5 years.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:179.688;display:inline;fill:#000000;stroke:#000000;stroke-width:0.364;stroke-dasharray:none;stroke-opacity:0;stop-color:#000000"
        x="1794.3708"
        y="85.670273"
        id="text10864"
-       transform="translate(-908.5417,18.536653)"><tspan
+       transform="translate(-688.54169,18.536653)"><tspan
          x="1794.3708"
          y="85.670273"
-         id="tspan208665"><tspan
+         id="tspan3256"><tspan
    style="stroke-opacity:0.991111"
-   id="tspan208663">10</tspan> You and a random nearby creature pass out. When you wake up, your souls have </tspan><tspan
+   id="tspan3254">10</tspan> You and a random nearby creature pass out. When you wake up, your souls have </tspan><tspan
          x="1794.3708"
          y="90.961933"
-         id="tspan208667">switched. Welcome to your new flesh.</tspan></text>
+         id="tspan3258">switched. Welcome to your new flesh.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="1020.0881"
+       x="1240.0881"
        y="109.28273"
        id="text10868"
        transform="skewX(-25.256338)"><tspan
          sodipodi:role="line"
          id="tspan10866"
          style="font-size:4.23333px;stroke-width:0.264"
-         x="1020.0881"
+         x="1240.0881"
          y="109.28273">Keep switching bodies every day.</tspan></text>
     <text
        xml:space="preserve"
@@ -2325,76 +2974,76 @@
        x="1772.3544"
        y="71.407623"
        id="text10872"
-       transform="translate(-886.0559,47.689696)"><tspan
+       transform="translate(-666.05589,47.689696)"><tspan
          x="1772.3544"
          y="71.407623"
-         id="tspan208671"><tspan
+         id="tspan3262"><tspan
    style="stroke-opacity:0.986667"
-   id="tspan208669">11</tspan> Your skeleton is possessed by some unearthly force and will do anything to kill </tspan><tspan
+   id="tspan3260">11</tspan> Your skeleton is possessed by some unearthly force and will do anything to kill </tspan><tspan
          x="1772.3544"
          y="76.699284"
-         id="tspan208673">you and escape. Test Strength DR10 in stressful situations or take d4 damage.</tspan></text>
+         id="tspan3264">you and escape. Test Strength DR10 in stressful situations or take d4 damage.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:207.92;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
        x="1771.8467"
        y="84.267761"
        id="text10876"
-       transform="matrix(1,0,-0.51016694,1,-843.9172,45.306205)"><tspan
+       transform="matrix(1,0,-0.51016694,1,-623.91719,45.306205)"><tspan
          x="1771.8467"
          y="84.267761"
-         id="tspan208675">For d2 hours a day the skeleton directs your movement, Strength DR12 to Struggle.</tspan></text>
+         id="tspan3266">For d2 hours a day the skeleton directs your movement, Strength DR12 to Struggle.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:199.321;display:inline;fill:#000000;stroke:#000000;stroke-width:0.364;stroke-dasharray:none;stroke-opacity:0;stop-color:#000000"
        x="1773.8772"
        y="99.666092"
        id="text10880"
-       transform="translate(-888.4199,39.446803)"><tspan
+       transform="translate(-668.41989,39.446803)"><tspan
          x="1773.8772"
          y="99.666092"
-         id="tspan208679"><tspan
+         id="tspan3270"><tspan
    style="stroke-opacity:0.986667"
-   id="tspan208677">12</tspan> Around you falls an unending snow of black ash which only the mad can precieve. Water </tspan><tspan
+   id="tspan3268">12</tspan> Around you falls an unending snow of black ash which only the mad can precieve. Water </tspan><tspan
          x="1773.8772"
          y="104.95775"
-         id="tspan208681">sickens you from this day on. Only ash, soot, or burnt remains can quench your thirst.</tspan></text>
+         id="tspan3272">sickens you from this day on. Only ash, soot, or burnt remains can quench your thirst.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.88056px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:226.671;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
        x="1865.7596"
        y="126.57085"
        id="text10884"
-       transform="matrix(1,0,-0.51963926,1,-915.87598,23.565258)"><tspan
+       transform="matrix(1,0,-0.51963926,1,-695.87597,23.565258)"><tspan
          x="1865.7596"
          y="126.57085"
-         id="tspan208683">Food also sickens you, burying yourself for a night in ash is the only way to provide nourishment.</tspan></text>
+         id="tspan3274">Food also sickens you, burying yourself for a night in ash is the only way to provide nourishment.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:188.352;display:inline;fill:#000000;stroke:#000000;stroke-width:0.364;stroke-dasharray:none;stroke-opacity:0;stop-color:#000000"
        x="1772.5236"
        y="98.989243"
        id="text10888"
-       transform="translate(-887.2664,61.10364)"><tspan
+       transform="translate(-667.26639,61.10364)"><tspan
          x="1772.5236"
          y="98.989243"
-         id="tspan208687"><tspan
+         id="tspan3278"><tspan
    style="stroke-opacity:0.982222"
-   id="tspan208685">13</tspan> You don't regenerate, only poison heals you. You still suffer all other effects of </tspan><tspan
+   id="tspan3276">13</tspan> You don't regenerate, only poison heals you. You still suffer all other effects of </tspan><tspan
          x="1772.5236"
          y="104.2809"
-         id="tspan208689">that poison.</tspan></text>
+         id="tspan3280">that poison.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="1039.0808"
+       x="1259.0808"
        y="165.87566"
        id="text10892"
        transform="skewX(-37.165841)"><tspan
          sodipodi:role="line"
          id="tspan10890"
          style="font-size:4.23333px;stroke-width:0.264"
-         x="1039.0808"
+         x="1259.0808"
          y="165.87566">Thirst can only be quenched with poison.</tspan></text>
     <text
        xml:space="preserve"
@@ -2402,87 +3051,87 @@
        x="1771.5083"
        y="112.52623"
        id="text10896"
-       transform="translate(-886.0699,61.983271)"><tspan
+       transform="translate(-666.06989,61.983271)"><tspan
          x="1771.5083"
          y="112.52623"
-         id="tspan208693"><tspan
+         id="tspan3284"><tspan
    style="stroke-opacity:0.991111"
-   id="tspan208691">14</tspan> The illusion of the celestial sphere is lifted, you now see what </tspan><tspan
+   id="tspan3282">14</tspan> The illusion of the celestial sphere is lifted, you now see what </tspan><tspan
          x="1771.5083"
          y="117.81789"
-         id="tspan208695">dwells beyond. And it sees you. Roll morale when gazing at the sky.</tspan></text>
+         id="tspan3286">dwells beyond. And it sees you. Roll morale when gazing at the sky.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:139.892;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
        x="1805.3787"
        y="123.24075"
        id="text10900"
-       transform="matrix(1,0,-0.54275805,1,-853.0553,61.145711)"><tspan
+       transform="matrix(1,0,-0.54275805,1,-633.05529,61.145711)"><tspan
          x="1805.3787"
          y="123.24075"
-         id="tspan208697">looking at the sky causes you to become completely mad</tspan></text>
+         id="tspan3288">looking at the sky causes you to become completely mad</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:187.469;display:inline;fill:#000000;stroke:#000000;stroke-width:0.364;stroke-dasharray:none;stroke-opacity:0;stop-color:#000000"
        x="1772.5942"
        y="134.24867"
        id="text13222"
-       transform="translate(-887.4452,59.601293)"><tspan
+       transform="translate(-667.44519,59.601293)"><tspan
          x="1772.5942"
          y="134.24867"
-         id="tspan208701"><tspan
+         id="tspan3292"><tspan
    style="stroke-opacity:0.986667"
-   id="tspan208699">15</tspan> One by one your teeth fall out. Long, Brittle figernails replace them in your gums. </tspan><tspan
+   id="tspan3290">15</tspan> One by one your teeth fall out. Long, Brittle figernails replace them in your gums. </tspan><tspan
          x="1772.5942"
          y="139.54033"
-         id="tspan208703">Your smile is horrific and you find it hard to eat.</tspan></text>
+         id="tspan3294">Your smile is horrific and you find it hard to eat.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:186.214;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
        x="1771.8468"
        y="137.90808"
        id="text13230"
-       transform="matrix(1,0,-0.54455309,1,-810.6324,66.203094)"><tspan
+       transform="matrix(1,0,-0.54455309,1,-590.63239,66.203094)"><tspan
          x="1771.8468"
          y="137.90808"
-         id="tspan208705">Fingernails go all the way to the back of your throat, you find it hard to breathe. </tspan><tspan
+         id="tspan3296">Fingernails go all the way to the back of your throat, you find it hard to breathe. </tspan><tspan
          x="1771.8468"
          y="143.19974"
-         id="tspan208707">DR4 Toughness when eating or choke to death.</tspan></text>
+         id="tspan3298">DR4 Toughness when eating or choke to death.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.364;stroke-dasharray:none;stroke-opacity:0;stop-color:#000000"
-       x="884.12848"
+       x="1104.1285"
        y="218.74529"
        id="text13238"><tspan
          sodipodi:role="line"
          id="tspan13236"
          style="font-size:4.23333px;stroke-width:0.364;stroke-dasharray:none"
-         x="884.12848"
+         x="1104.1285"
          y="218.74529"><tspan
    style="stroke:#000000;stroke-width:0.364;stroke-dasharray:none;stroke-opacity:1"
    id="tspan100296">16</tspan> You shit out one of your femurs, take d6 damage. </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="1077.0068"
+       x="1297.0068"
        y="223.51027"
        id="text13242"
        transform="skewX(-40.080615)"><tspan
          sodipodi:role="line"
          id="tspan13240"
          style="font-size:4.23333px;stroke-width:0.264"
-         x="1077.0068"
+         x="1297.0068"
          y="223.51027">Shit out your entire skeleton, 3d10 damage.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.364;stroke-dasharray:none;stroke-opacity:0;stop-color:#000000"
-       x="884.5993"
+       x="1104.5994"
        y="232.57018"
        id="text13246"><tspan
          id="tspan13244"
          style="font-size:4.23333px;stroke-width:0.364;stroke-dasharray:none"
-         x="884.5993"
+         x="1104.5994"
          y="232.57018"
          sodipodi:role="line"><tspan
    style="stroke:#000000;stroke-width:0.364;stroke-dasharray:none;stroke-opacity:0.964444"
@@ -2490,13 +3139,13 @@
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="1020.3001"
+       x="1240.3002"
        y="237.37822"
        id="text13250"
        transform="skewX(-29.526827)"><tspan
          id="tspan13248"
          style="font-size:4.23333px;stroke-width:0.264"
-         x="1020.3001"
+         x="1240.3002"
          y="237.37822"
          sodipodi:role="line">It's intelligent, mischeivous, and terribly cruel.</tspan></text>
     <text
@@ -2505,36 +3154,36 @@
        x="1784.8761"
        y="154.99854"
        id="text13254"
-       transform="translate(-899.54838,91.956625)"><tspan
+       transform="translate(-679.54837,91.956625)"><tspan
          x="1784.8761"
          y="154.99854"
-         id="tspan208711"><tspan
+         id="tspan3302"><tspan
    style="stroke-opacity:0.977778"
-   id="tspan208709">18</tspan> Water tries to drag you in and drown you, every time near a body of water test DR14 </tspan><tspan
+   id="tspan3300">18</tspan> Water tries to drag you in and drown you, every time near a body of water test DR14 </tspan><tspan
          x="1784.8761"
          y="160.2902"
-         id="tspan208713">Strength or be dragged in and drowned. </tspan></text>
+         id="tspan3304">Strength or be dragged in and drowned. </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.88056px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="1117.3673"
+       x="1337.3673"
        y="251.95375"
        id="text13258"
        transform="skewX(-29.704876)"><tspan
          sodipodi:role="line"
          id="tspan13256"
          style="font-size:3.88056px;stroke-width:0.264"
-         x="1117.3673"
+         x="1337.3673"
          y="251.95375">All liquids try to cover your mouth and drown you.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;display:inline;fill:#000000;stroke:#000000;stroke-width:0.364;stroke-dasharray:none;stroke-opacity:0;stop-color:#000000"
-       x="886.19769"
+       x="1106.1978"
        y="262.29132"
        id="text13262"><tspan
          id="tspan13260"
          style="font-size:4.23333px;stroke-width:0.364;stroke-dasharray:none"
-         x="886.19769"
+         x="1106.1978"
          y="262.29132"
          sodipodi:role="line"><tspan
    style="stroke:#000000;stroke-opacity:0.977778"
@@ -2545,35 +3194,35 @@
        x="1873.2202"
        y="164.85294"
        id="text13266"
-       transform="matrix(1,0,-0.575871,1,-892.40508,102.43533)"><tspan
+       transform="matrix(1,0,-0.575871,1,-672.40507,102.43533)"><tspan
          x="1873.2202"
          y="164.85294"
-         id="tspan208715">You cannot pick up objects, someone must pass you them.</tspan></text>
+         id="tspan3306">You cannot pick up objects, someone must pass you them.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:202.521;display:inline;fill:#000000;stroke:#000000;stroke-width:0.364;stroke-dasharray:none;stroke-opacity:0;stop-color:#000000"
        x="1791.983"
        y="176.82693"
        id="text13270"
-       transform="translate(-907.32038,101.11178)"><tspan
+       transform="translate(-687.32037,101.11178)"><tspan
          x="1791.983"
          y="176.82693"
-         id="tspan208719"><tspan
+         id="tspan3310"><tspan
    style="stroke-opacity:0.973333"
-   id="tspan208717">20</tspan> The light itself despises you. If you gaze upon a candle, lamp, or torch it goes out. DR6 </tspan><tspan
+   id="tspan3308">20</tspan> The light itself despises you. If you gaze upon a candle, lamp, or torch it goes out. DR6 </tspan><tspan
          x="1791.983"
          y="182.1186"
-         id="tspan208721">Presence to not accidentaly look upon a light source.</tspan></text>
+         id="tspan3312">Presence to not accidentaly look upon a light source.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-decoration-color:#000000;white-space:pre;inline-size:169.107;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
        x="1844.4388"
        y="193.57896"
        id="text13274"
-       transform="matrix(1,0,-0.49086217,1,-865.11728,94.708694)"><tspan
+       transform="matrix(1,0,-0.49086217,1,-645.11727,94.708694)"><tspan
          x="1844.4388"
          y="193.57896"
-         id="tspan208723">The sun absolutely despises you, if looked upon clouds will form around it.</tspan></text>
+         id="tspan3314">The sun absolutely despises you, if looked upon clouds will form around it.</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3299,14 +3948,14 @@
        transform="matrix(1,0,-0.17758616,1,-357.4883,48.705169)"><tspan
          x="532.82849"
          y="65.855209"
-         id="tspan208727"><tspan
+         id="tspan3318"><tspan
            style="stroke-width:0.301"
-           id="tspan208725">HEAVY weapons take </tspan></tspan><tspan
+           id="tspan3316">HEAVY weapons take </tspan></tspan><tspan
          x="532.82849"
          y="70.264918"
-         id="tspan208731"><tspan
+         id="tspan3322"><tspan
            style="stroke-width:0.301"
-           id="tspan208729">up 2 inventory spaces</tspan></tspan></text>
+           id="tspan3320">up 2 inventory spaces</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';text-align:end;text-anchor:end;display:inline;fill:#000000;stroke:#000000;stroke-width:0.301001;stroke-opacity:0"

@@ -25,11 +25,11 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.104894"
-     inkscape:cx="479.23149"
-     inkscape:cy="409.08902"
+     inkscape:cx="478.32643"
+     inkscape:cy="702.32982"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
-     inkscape:window-x="-8"
+     inkscape:window-x="1358"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -42,33 +42,36 @@
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
-       x="6.1591835"
-       y="290.69275"
+       x="7.117043"
+       y="280.15628"
        id="text236"><tspan
          sodipodi:role="line"
          style="font-size:4.23333px;stroke-width:0.264"
-         x="6.1591835"
-         y="290.69275"
-         id="tspan244">Heavily inspired by: MÖRK BORG, Horrible Wounds, Suffering Extended, Momentary Respite</tspan></text>
+         x="7.117043"
+         y="280.15628"
+         id="tspan244">Heavily inspired by: Horrible Wounds, Suffering Extended, Momentary Respite</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.175px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';text-decoration-color:#000000;white-space:pre;inline-size:202.353;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
        x="1.5239457"
        y="259.07071"
        id="text309"
-       transform="translate(5.2916668,3.1750001)"><tspan
+       transform="translate(5.2916668,-3.1750001)"><tspan
          x="1.5239457"
          y="259.07071"
-         id="tspan64823">Albums That Helped: Mephorash - Shem Ha Mephorash, HAZEMAZE - HAZEMAZE, Monolord - Vænir, Black Tremor - Impending, </tspan><tspan
+         id="tspan218739">Albums That Helped: Mephorash - Shem Ha Mephorash, HAZEMAZE - HAZEMAZE, Monolord - Vænir, Black Tremor - Impending, </tspan><tspan
          x="1.5239457"
          y="263.03945"
-         id="tspan64825">Belzebong - Light the Dankness, Domkraft - The End of Electricity, Belzebong - Sonic Scapes &amp; Weedy Grooves,                </tspan><tspan
+         id="tspan218741">Belzebong - Light the Dankness, Domkraft - The End of Electricity, Belzebong - Sonic Scapes &amp; Weedy Grooves,                </tspan><tspan
          x="1.5239457"
          y="267.0082"
-         id="tspan64827">Omen Stones - Omen Stones, Behemoth - The Satanist, Sleep - Dopesmoker, Auotonoesis - Moon of Foul Magics,             </tspan><tspan
+         id="tspan218743">Omen Stones - Omen Stones, Behemoth - The Satanist, Sleep - Dopesmoker, Auotonoesis - Moon of Foul Magics,             </tspan><tspan
          x="1.5239457"
          y="270.97695"
-         id="tspan64829">Domkraft - The End of Electricity, Electric Wizard - Dopethrone, Khonsu - The Xun Protectorate</tspan></text>
+         id="tspan218745">Domkraft - The End of Electricity, Electric Wizard - Dopethrone, Khonsu - The Xun Protectorate, Shotgun Sawyer - Bury </tspan><tspan
+         x="1.5239457"
+         y="274.9457"
+         id="tspan218747">the Hatchet, </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite, Normal';text-decoration-color:#000000;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
@@ -256,5 +259,22 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:UnifrakturMaguntia;-inkscape-font-specification:UnifrakturMaguntia;stroke-width:0.264"
          x="20.215527"
          y="191.57193">Jan Bippert</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.46944px;line-height:normal;font-family:'Special Elite';-inkscape-font-specification:'Special Elite';text-align:center;text-decoration-color:#000000;text-anchor:middle;white-space:pre;inline-size:197.687;display:inline;fill:#000000;stroke:#000000;stroke-width:0.264;stroke-opacity:0;-inkscape-stroke:none;stop-color:#000000"
+       x="111.42733"
+       y="288.07626"
+       id="text218578"
+       transform="translate(-8.3812716,2.1551841)"><tspan
+         x="111.42733"
+         y="288.07626"
+         id="tspan218749">Saline Scriptures is an independent production by Anthony Slab &amp; Arctic Prototype, and is not affiliated with Ockult Örtmästare Games or Stockholm<tspan
+   y="288.07626"
+   id="tspan218751"> </tspan></tspan><tspan
+         x="111.42733"
+         y="291.16305"
+         id="tspan218753">Kartell. It is published under the MÖRK BORG Third Party License. MÖRK BORG is copyright Ockult Örtmästare Games and Stockholm Kartell.<tspan
+   y="291.16305"
+   id="tspan218755"> </tspan></tspan></text>
   </g>
 </svg>
