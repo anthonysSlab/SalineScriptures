@@ -55,14 +55,14 @@
 71 -
 72 -
 73 -
-74 -
-75 -
-76 -
+74 - 
+75 - Stars begin bouncing off each other exciting the fates. Roll twice on the event table for D8 days, events happen every D2 days
+76 - A swarm of detached fingers are rising from the ground nearby, they begin flowing towards the bodys they came from NONON
 77 -
-78 -
+78 - 
 81 -
-82 -
-83 -
+82 - The party wakes up to the aftermath of a complicated situation, they have forgotten the last D20 minutes.
+83 - Gazing upon a hill reveals a large silhouette of an enmormous towering davincy holding in his hand a rather delicate lil ant remix tape
 84 -
 85 -
 86 -
@@ -104,7 +104,7 @@ Prices vary depending on the commodity of the item in that place. Double price i
 10 - d4 Maddened Wild Beasts (HP7 / Morale 8 / d6 claw, bite, etc / d2 Hide, scales, etc)
 11 - An Inquisitor with d2 Guards *Will accuse the party of unclean magicks* (20HP /  Morale 11 / Flail 2d4 / d6 Plate / 3 Power / Special: has 2 random unclean scrolls)
 12
-13
+13 - The party is being followed by wolves, they are rather noisey.
 14
 15
 16 - A Mad Guard (10HP / Morale - / Longsword d6 / d4 Maile)
