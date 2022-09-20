@@ -3,22 +3,6 @@
 
 
 
-
-# Villages: d12
-1 - Burned down after a recent conflict, d6 silver can be found in the ashes.
-2 - Recently Pillaged, No supplies to trade. Weary of outsiders.
-3 - Savage Beasts and Monsters live in the village, Residents terrorised, Low stock.
-4 - Ruled by Bandits, Spending over 25s will make them *interested*.
-5 - An Inquisitor is passing through and burning d6 witches. DR14 or be searched for Unclean Magicks.
-6 - The "Village" is well stocked, but the "Residents" want you to leave urgently.
-7 - Eeger to trade, but hiding something...
-8 - Home to an underground "Herbalist" market, Moderate Stock, Villagers are mad at the "Herbalists" for bringing guards.
-9 - Rich noble is passing through, 2d6 guards with him.
-10 - Well off trading post, supplies plantiful.
-11 - Wealthy Merchant has recently passed through, Traded All supplies for d2 Rare Items.
-12 - What Village?
-
-
 # EVENTEs d88
 *when you roll an event written in itallics, cross it out and replace with something creative*
 
@@ -94,21 +78,21 @@ Prices vary depending on the commodity of the item in that place. Double price i
 
 # Ambush:
 1 - A troll Adnah (32HP / Morale - / 2d6 Claws / d2 Hide / Special: Will cast a random unclean power on death)
-2 - A Silhouette of a Wyvern Against The Purple Sky
+2 - A Silhouette of a Wyvern Against The Purple Sky ()
 3 - d2 Goblins
 4 - d4 Grotesques on an Archway
-5
+5 - An Inquisitor with d2 Guards *Will accuse the party of unclean magicks* (10HP /  Morale 11 / Flail 2d4 / d6 Plate / 3 Power / Special: has 2 random unclean scrolls)
 6
 7 - 2d4 Hungry Canibals (4HP / Morale 9 / Hands, Bite d2)
 8-9 - d4 Rotted Skeletons (5HP / Morale 10 / Knife d2+1 / Special: On hit DR10 or become infected)
 10 - d4 Maddened Wild Beasts (HP7 / Morale 8 / d6 claw, bite, etc / d2 Hide, scales, etc)
-11 - An Inquisitor with d2 Guards *Will accuse the party of unclean magicks* (20HP /  Morale 11 / Flail 2d4 / d6 Plate / 3 Power / Special: has 2 random unclean scrolls)
+11 
 12
 13
 14
 15
 16 - A Mad Guard (10HP / Morale - / Longsword d6 / d4 Maile)
-17-19 - d4 Thieves, Robbers, And other Scum. (5HP / 7 Morale / d4 Shortsword; d6 Bow / d2 Leather)
+17-19 - d4 Thieves, Robbers, or other Scum. (5HP / 7 Morale / d4 Shortsword; d6 Bow / d2 Leather)
 20 - Nothing... But...
 
 # Ruins:
@@ -257,6 +241,20 @@ r1 Road covered in the fog of graven tosk, plays tricks on the mind. (make tests
 4 - Ruled by Bandits, Spending over 25s will make them *interested*.
 5 - An Inquisitor is passing through and burning d6 witches. DR14 or be searched for Unclean Magicks.
 6 - The "Village" is well stocked, but the "r=Residents" want you to leave urgently.
+7 - Eeger to trade, but hiding something...
+8 - Home to an underground "Herbalist" market, Moderate Stock, Villagers are mad at the "Herbalists" for bringing guards.
+9 - Rich noble is passing through, 2d6 guards with him.
+10 - Well off trading post, supplies plantiful.
+11 - Wealthy Merchant has recently passed through, Traded All supplies for d2 Rare Items.
+12 - What Village?
+
+# Villages: d12
+1 - Burned down after a recent conflict, d6 silver can be found in the ashes.
+2 - Recently Pillaged, No supplies to trade. Weary of outsiders.
+3 - Savage Beasts and Monsters live in the village, Residents terrorised, Low stock.
+4 - Ruled by Bandits, Spending over 25s will make them *interested*.
+5 - An Inquisitor is passing through and burning d6 witches. DR14 or be searched for Unclean Magicks.
+6 - The "Village" is well stocked, but the "Residents" want you to leave urgently.
 7 - Eeger to trade, but hiding something...
 8 - Home to an underground "Herbalist" market, Moderate Stock, Villagers are mad at the "Herbalists" for bringing guards.
 9 - Rich noble is passing through, 2d6 guards with him.
