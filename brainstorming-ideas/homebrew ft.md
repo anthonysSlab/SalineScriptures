@@ -13,36 +13,23 @@ Note: There are 9 (Including likeable) feats that need to be made.
 - Inventive
     - (PRE +1, STR +1)
     - Improvised and broken weapons are d6 but they break after one hit. // approved the broken thing
-    - *something mixed*
 
 - Culveriner
-    - When you spend your entire turn aiming your weapon, get an automatic crit on the next attack. You cannot have an enemy within melee range or take damage while aiming.
-     - *Gain an additional d4 attack on unaware enemies with a gun.*
-     - *You may spend two omens on a successful attack to turn it into a crit.*
-
-- Hoarder
-    - Can find extra items with a dr16 presense roll, they are mundane
-    - Can carry 2 more items, to the total of 16
-    - *when looting 1 in 6 chance to find extra loot*
-    // might need a rework
-
-- extreme version of lucky?
-    - every failure is a fumble but every success is a crit.
-    - *in stessful situations, -4DR to every test but failures fumble.*
-    // "stressful" may be too vague 
+    - Spend an omen to succeed an attack on a unaware enemy with a gun 
+    - Crits give you an omen, taking damage removes one.
 
 - Noble Soul
-    - +2DR when lying.
-    - -5DR when being truthful.
+    - Lose 1 omen when lying, 3 max omens.
+    - Lying tests are always successful.
 
-- Iron mind (brave guy thing): You prefer looking death in the eyes instead of hiding like a coward.
-    - You don't roll morale, and cannot be demoralized.
-    - When withwrawing from a fight, test DR18 Will or stay in combat.
+- Tempered mind (brave guy thing): You prefer looking death in the eyes instead of hiding like a coward.
+    - You don't roll morale and can't be demoralized.
+    - Test DR18 Will to withdrawl from combat.
     // needs rephrasing
 
 - Bulwark
     - (STR +2, TOU +1)
-    - Can defend with a DR8 toughness test, reduces damage by d4.
+    - Defence is a DR8 toughness test, success reduces damage taken by d4.
     // needs rephrasing
 
 - Masochist
@@ -50,9 +37,9 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - Cannot fail a morale test if it involves pain to you.
     // second one is pretty vague  
 
-- Axe Barron
-    - Can use an axe, warpick, poleaxe or scyth to disarm an opponent's weapon. 
-    - *remove poleaxe given that it's really powerful already*
+- Axe Warden
+    - Test DR10 Strength to disarm someone with your axe, warpick, polearm or scyth. Can use this as a defence test
+    - Attacking the environment doesn't damage your weapon.
 
 - Baned hunter
     - Exposing the blood of a creature allows you to see their next action for D4 rounds. //Drinking blood instead, feel their intention 
