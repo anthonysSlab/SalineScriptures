@@ -5,17 +5,17 @@
 
 
 # Villages: d12
-1 - Burned down after a recent conflict, d6 silver can be found in the ashes.
+1 - Burned down after a recent conflict, d10 silver can be found in the ashes.
 2 - Recently Pillaged, No supplies to trade. Weary of outsiders.
 3 - Savage Beasts and Monsters live in the village, Residents terrorised, Low stock.
 4 - Ruled by Bandits, Spending over 25s will make them *interested*.
-5 - An Inquisitor is passing through and burning d6 witches. DR14 or be searched for Unclean Magicks.
+5 - An Inquisitor is passing through and burning d6 heretics. DR14 or be searched for Unclean Magicks.
 6 - The "Village" is well stocked, but the "Residents" want you to leave urgently.
 7 - Eeger to trade, but hiding something...
 8 - Home to an underground "Herbalist" market, Moderate Stock, Villagers are mad at the "Herbalists" for bringing guards.
-9 - Rich noble is passing through, 2d6 guards with him.
+9 - Rich noble is passing through, 2d6 guards with him. Village has a vast array of items.
 10 - Well off trading post, supplies plantiful.
-11 - Wealthy Merchant has recently passed through, Traded All supplies for d2 Rare Items.
+11 - Wealthy Merchant has recently passed through, Traded almost all supplies for d2 Rare Items.
 12 - What Village?
 
 
