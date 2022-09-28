@@ -16,7 +16,7 @@ D10 (?)
 
 8 - Silver is not the currency used here. Prices will vary wildy depending on traded currency. 
 
-9 - Spending omens here will gradually begin changing the weather.
+9 - Spending omens here will gradually begin changing the environment.
 
 10 - Something lurks in the unlit areas, terrified of light. 
 
