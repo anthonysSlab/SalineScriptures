@@ -46,6 +46,6 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - Exposing your own blood lures aggressive creatures to your location. // Your blood when spilled travels towards the closest injured creature
     // weird one, puts a lot of work onto the dm, and removes enemies being able to addept to changing conditions
 
-- Shamon
+- Shaman
     - Can spend an omen to perform a ritual that changes an aspect of the weather.
     - Test DR13 to foresee the upcoming weather.
