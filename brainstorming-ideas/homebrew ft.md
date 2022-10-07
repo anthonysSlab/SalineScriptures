@@ -34,7 +34,7 @@ Note: There are 9 (Including likeable) feats that need to be made.
 
 - Masochist
     - Losing more than half your max hp in a fight gives you a extra action.
-    - Cannot fail a morale test if it involves pain to you.
+    - Morale tests that involve physical pain to yourself are always successful.
     // second one is pretty vague  
 
 - Axe Warden
