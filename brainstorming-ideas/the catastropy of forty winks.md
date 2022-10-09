@@ -1,25 +1,21 @@
 # FEAST
 - Assassin’s Deathblow: A firm grip. A sharp knife. That’s all it takes for someone to disappear into the alleys of Galgenbeck. You’ve become adept at it over the years. 
-    - (STR +1)
+    - (STR +0)
     - Succeeding a DR12 Strength test allows you to grapple an unaware foe and automatically crit with a one handed bladed weapon.
 
 - Battle-hardened Deathspeaker: You were called to battle, not for your prowess with blade and shield. Not for your speed and might. But because the words you spoke brought death to your enemies. 
     - (WIL +1)
-    - You may cast Powers with medium armor and light zweihand weapons. 
+    - You may cast Powers with medium armour and light zweihand weapons. 
     - (WIL +2)
-    - Taking this feat a second time to also include heavy armor and heavy zweihand weapons.
+    - Taking this feat a second time to also include heavy armour and heavy zweihand weapons.
 
 - Beastly Scholar: You study the beasts of the land. Gutting them and spilling viscera to uncover secrets of the world.
     - (PRE +1, WIL +1)
     - You may scry and see the future with an animal’s innards. Gain an omen for every 10 hp the beast had, but never more than your maximum omens. Usable once per animal kind. The beasts’ innards may also provide enlightening information.
 
-- Armour Piercer: You notice the little gaps in between armour and can exploit them.
-    - (AGI +1)
-    - Your melee attacks ignore light armour. 
-    - (STR +1)
-    - You may take this feat a second time to increase this to medium armour. 
-    - (STR +2)
-    - You may take this feat a third time to increase this to heavy all armour.
+- Armour Cruncher: 
+    - (STR +3)
+    - Add opponent's armour to damage when using blunt weapons.
 
 - Blood Pact: It’s a cruel world to be all alone in. But you’ve found a way to avoid this fate.
     - (WIL 0)
@@ -173,7 +169,7 @@ Note: There are 9 (Including likeable) feats that need to be made.
 - Masochist
     - (HP +3, WILL +1)
     - Losing more than half your max hp in a fight gives you a extra action.
-    - Cannot fail a morale test if it involves physical pain to you.
+    - Cannot fail a morale test if it involves pain to you.
     // second one is pretty vague  
 
 - Axe Warden
