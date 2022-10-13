@@ -15,10 +15,10 @@
 
 - Armour Cruncher: 
     - (STR +3)
-    - Add opponent's armour to damage when using blunt weapons.
+    - Add opponent's armour dice to damage, when using blunt weapons.
 
 - Blood Pact: It’s a cruel world to be all alone in. But you’ve found a way to avoid this fate.
-    - (WIL 0)
+    - (WIL +0)
     - Form a blood pact with a creature. You can communicate by thought no matter the distance, this never goes away. Whatever one experiences, so does the other. This includes injury and death.
 
 - Bloodthirsty Rage: The rush of combat is addictive. You’re always chasing that high. It’s kill or be killed. You can’t stop to ask questions.  
@@ -26,7 +26,7 @@
     - When landing an attack that kills a creature you must move and attack another (this may include allies), adding d6 damage for every creature slain. Your onslaught stops when you fail to kill and you fall to the ground exhausted, losing your next turn
 
 - Bone Crafter: You don’t believe in letting things go to waste.
-    - (PRE 1, WIL -1)
+    - (PRE +1, WIL -1)
     - Including the corpses of the fallen You can craft equipment of strangely high quality using a number of humanoid corpses.
     - A d6 weapon, 1 corpse worth of bones. 
     - A shield, 4 corpses worth of bones. 
@@ -34,7 +34,7 @@
 
 - Calm Killer: The knife or arrow that is most careful is the deadliest. You have a sharp eye for gaps and kinks in armour.
     - (AGI +2)
-    - Agility times per combat when making a ranged or melee attack, you may reroll the damage dealt and keep the higher result.
+    - Twice per combat when making a ranged or melee attack, you may reroll the damage dealt and keep the higher result.
 
 - Cats Eyes: You looked up at the birds for a sign. Scattered bones, spilled entrails. For naught. But one day you saw your fate in the eyes of a cat lurking in the shadows.
     - (PRE +2)
@@ -42,30 +42,31 @@
     - Staring into the eyes of a creature let’s you feel whatever it is feeling.
 
 - Fateful Visions: The fates steer your journey across the dying world. One can only hope they guide you to redemption and not destruction.
-    - (PRE 0, WIL 0)
+    - (PRE -0, WIL +0)
     - Consume an omen and spend a few moments in quiet meditation. Ask the Game Master a question pertaining to the current situation.
     - You will be granted a bizarre vision that provides enlightening information. GM rolls a d4 in secret, on a 1 the vision is deceptive.
 
 - Iron Stomach: When crops fail, and livestock births inedible abominations. One learns to not be picky when it comes to food.
-    - (TOU 2)
+    - (TOU +2)
     - You may consume rotting, putrid flesh with a DR6 Toughness test. Others witnessing this may find it disgusting. Outcasts roll morale.
 
 - First Strike: You believe that the Shimmering Fields are for those who leap into battle, those who are first to reap glory.
     - (AGI +2)
     - Whether your side passes or fails the initiative roll, you may always act first.
+    - Your first action in combat has -2DR.
 
 - Gutsy Strike: You once saw a man decapitate a horse with a giant sword. It was less a sword and more a large slab of iron. You can’t help but think of the beast’s vacant eyes whenever you swing your own sword.
-    - (STR +2)
+    - (STR +3)
     - When wielding zweihand weapons, you may swing with +4 to your DR. If the attack lands you add d6 to your damage.
 
 - Harbinger of Misery: You feel a dark blessing course though your veins. You have dedicated yourself to the black disk which will block out the sun.
-    - (At least 2 abilities below 0)
+    - (all below 0)
     - Gain 4 Maximum omens instead of 2. As long as you live the GM rolls two misery dice every day.
 
 - Herbalist Healer: You’ve spent what seemed like an eternity under the haze filled apprenticeship of a herbalist master. You left with a new outlook on life, and a few extra skills.
     - (PRE +1)
     - Once per day you may scrounge to find the necessary herbs and flora to create an infection curing elixir that also heals d4 hp.
-    - DR12 Presence to create it, failing instead creates a toxin dealing D4 damage.
+    - GM rolls a d4, on 1 you create a toxin dealing D4 damage. DR14 Presence to notice it's a poison.
 
 - Hyper Awareness: You are paranoid. Seeing danger in every shadow. Everything wants to kill you. You are jittery with bird-like movements.
     - (PRE +1 AGI +1)
@@ -73,16 +74,17 @@
 
 - Immortal Memory: You are haunted by the memories of those that have fallen. Even if their spirits have moved on, and the bodies are dust, their memories linger for eternity.
     - (WIL +1)
-    - Whenever encountering a place of great suffering. You may relive the tragedy through a memory that lingers. And gain an Omen.
+    - Whenever encountering a place of great suffering. You may relive the tragedy through a memory that lingers, gain an Omen.
     - There is a 1/20 chance that things become all too real. You suffer the same fate in reality. This might cause creatures and Powers to reappear.
 
 - Leech: An acquired taste. Or perhaps a disease. Maybe a curse. An eternal thirst
     - (TOU -1 WIL -1)
-    - Blood heals and sustains you. A pint of blood heals you for D4-1 hp. You must still eat regular food, but you suffer the effects of starvation after one day.
+    - Blood heals and sustains you. A pint of blood heals you for D4-1 hp. You suffer the effects of starvation after two day.
 
-- Likeable: There’s something about your smile. The way you compose yourself. The way you speak. You’re best described as approachable. It’s weird.
-    - Get -3DR to persuasion/negociacion tests
-    - Can't fumble on negoctiations
+- Intimidating
+    - (PRE -2, STR +0)
+    - persuasion/negotiation tests succeed when rolled below 10 
+    - Spend an Omen to cause a moralle test
 
 - Living Armor: You’ve survived war. You’ve survived because of cold steel that has been scarred so that you may live. It’s become a part of you and you’ve learned to carry its burden.
     - (Medium or Heavy Armour, TOU +2)
@@ -103,17 +105,17 @@
     - Roll a Presence test, DR6+ opponents highest morale. Success means the fighting stops. For now.
 
 - Power Word: The powers that be whisper dark secrets in your ears wherever you walk. Their incessant chittering never gives you peace.
-    - (WILL +2)
+    - (WILL +2, TOU +0)
     - You innately know one random sacred or unclean Power. Additionally once you have read a scroll you may carve its esoteric glyphs into your flesh and no longer need the scroll itself to cast it.
-    - Every night there is 1/20 chance that you accidentally cast a Power in your sleep. This Power also has a 1 in 6 chance of fumbling.
+    - Every night there is 1/10 chance that you accidentally cast a Power in your sleep.
 
 - Predatory Sense: Somewhere along your bloodline wickedness was introduced. It’s influence is thin within your blood but ever present. You have a keen sense of smell when it comes to humans.
     - (PRE +2)
     - You can sniff individuals out from a room away, identify someone, and even track them easily with a DR12 Presence test.
 
 - Reckless Attacker: Overzealous, constantly making bad calls, an extremely poor sense of judgement. But you’ve lived this long so you must be doing something right.
-    - (PRE -1; AGI +1)
-    - You may attack the same target twice on your turn. Missing the second attack allows your opponent to land an attack that you can defend against at +2DR.
+    - (PRE -3; AGI +1)
+    - You may attack the same target twice on your turn. Missing the second attack allows your opponent to land an attack that you can defend against.
 
 - Shield Breaker: You know that the moment an opponent is at their most vulnerable is right after they’ve attacked.
     - (STR +2)
@@ -121,7 +123,7 @@
     - Shields do -d2 damage now
 
 - Skinner: Your skin crawls and itches constantly. Constantly scabbing and foul. The skin of others brings you momentary solace.
-    - (WILL +1, TOU -1)
+    - (WILL -1, TOU -1)
     - You may wear the skin of a creature that has been recently killed to disguise yourself. You look, sound and even smell like them.
     - The skin decays after d4 hours and you revert back to your normal, wretched form.
 
@@ -148,15 +150,18 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - Improvised and broken weapons are d6 but they break after one hit. // approved the broken thing
 
 - Culveriner
+    - (AGI -0, PRE +1)
     - Spend an omen to succeed an attack on a unaware enemy with a gun 
     - Crits give you an omen, taking damage removes one.
 
 - Noble Soul
-    - Lose 1 omen when lying, 3 max omens.
+    - (PRE 0, WIL -0)
+    - Lose 1 omen when lying, 2 when it's implausible, 3 max omens.
     - Lying tests are always successful.
     - Cannot lie if out of omens.
 
 - Tempered mind (brave guy thing): You prefer looking death in the eyes instead of hiding like a coward.
+    - (TOU +0, WIL -0)
     - You don't roll morale and can't be demoralized.
     - Test DR18 Will to withdrawl from combat.
     // needs rephrasing
@@ -173,6 +178,7 @@ Note: There are 9 (Including likeable) feats that need to be made.
     // second one is pretty vague  
 
 - Axe Warden
+    (AGI +1, STR +1)
     - Test DR10 Strength to disarm someone with your axe, warpick, polearm or scyth. Can use this during a defense test.
     - Attacking the environment doesn't damage your weapon.
 
@@ -180,7 +186,9 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - Exposing the blood of a creature allows you to see their next action for D4 rounds. //Drinking blood instead, feel their intention 
     - Exposing your own blood lures aggressive creatures to your location. // Your blood when spilled travels towards the closest injured creature
     // weird one, puts a lot of work onto the dm, and removes enemies being able to addept to changing conditions
+    //! BRAINSTORMIN REQUIRED
 
 - Shamon
+    - (PRE +0, WIL +2)
     - Can spend an omen to perform a ritual that changes an aspect of the weather.
     - Test DR13 to foresee the upcoming weather.
