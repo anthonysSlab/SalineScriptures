@@ -143,16 +143,16 @@ Note: There are 9 (Including likeable) feats that need to be made.
 
 - Interrupter
     - (AGI +2)
-    - Once per combat you may sacrifice your next turn, to intercept into an enemy's action, DR12 Agility to either: stop their turn, attack them, or do something else right before they do.
+    - Once per combat you may sacrifice your next turn to interrupt an enemy's action, DR12 Agility to either: stop their turn, attack them, or do something else right before they do.
 
 - Inventive
-    - (PRE +1, STR +1)
-    - Improvised and broken weapons are d6 but they break after one hit. // approved the broken thing
+    - (PRE +3)
+    - Improvised and broken weapons are d6 but they break after one hit.
 
 - Culveriner
     - (AGI -0, PRE +1)
-    - Spend an omen to succeed an attack on a unaware enemy with a gun 
-    - Crits give you an omen, taking damage removes one.
+    - Spend an omen to succeed an attack on a unaware enemy with a gun.
+    - Crits give you an omen, Taking damage removes one and reduces the damage taken by -d2.
 
 - Noble Soul
     - (PRE 0, WIL -0)
@@ -160,35 +160,49 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - Lying tests are always successful.
     - Cannot lie if out of omens.
 
-- Tempered mind (brave guy thing): You prefer looking death in the eyes instead of hiding like a coward.
+- Tempered mind: You prefer looking death in the eyes instead of hiding like a coward.
     - (TOU +0, WIL -0)
-    - You don't roll morale and can't be demoralized.
-    - Test DR18 Will to withdrawl from combat.
-    // needs rephrasing
+    - You don't test morale and cannot be demoralized.
+    - Test DR16 Will or spend an Omen to withdraw from combat.
 
 - Bulwark
     - (STR +1, TOU +2)
-    - Defence is a DR8 toughness test, success reduces damage taken by d4.
-    // needs rephrasing
+    - Defence is a DR8 Toughness test, success reduces damage by d4.
 
 - Masochist
     - (HP +3, WILL +1)
     - Losing more than half your max hp in a fight gives you a extra action.
-    - Cannot fail a morale test if it involves pain to you.
-    // second one is pretty vague  
+    - Morale tests that are caused by pain are always successful. 
 
 - Axe Warden
-    (AGI +1, STR +1)
-    - Test DR10 Strength to disarm someone with your axe, warpick, polearm or scyth. Can use this during a defense test.
+    - (AGI +1, STR +1)
+    - Test DR12 Strength to disarm someone with your axe, warpick, polearm or scyth. DR16 to use this instead of a defense test.
     - Attacking the environment doesn't damage your weapon.
 
 - Baned hunter
-    - Exposing the blood of a creature allows you to see their next action for D4 rounds. //Drinking blood instead, feel their intention 
-    - Exposing your own blood lures aggressive creatures to your location. // Your blood when spilled travels towards the closest injured creature
-    // weird one, puts a lot of work onto the dm, and removes enemies being able to addept to changing conditions
-    //! BRAINSTORMIN REQUIRED
+    - (-1 STR, +1 WILL)
+    - Your blood when spilled travels towards the nearest Impure, Unclean, or Heavily Wounded creature.
+    - Eating the Fresh Heart of an Unclean creature restores your Power, up to 4+Will max.
+    - You cannot regain Power by resting.
 
-- Shamon
+- Shaman
     - (PRE +0, WIL +2)
     - Can spend an omen to perform a ritual that changes an aspect of the weather.
-    - Test DR13 to foresee the upcoming weather.
+    - Test DR14 Presence to foresee the upcoming weather.
+
+Unclean:
+    - Heretics
+    - Witches
+    - Liches
+    
+Impure
+    - Skeletons
+    - Goblins
+    - thieves
+
+
+
+MAGIC ITEM IDEAS:
+
+- Book
+    - 
