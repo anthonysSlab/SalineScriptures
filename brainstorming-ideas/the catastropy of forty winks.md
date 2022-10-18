@@ -1,7 +1,13 @@
 # FEAST
+- Armour Cruncher: 
+    - (STR +3)
+    - Add opponent's armour dice to damage, when using blunt weapons.
+
 - Assassin’s Deathblow: A firm grip. A sharp knife. That’s all it takes for someone to disappear into the alleys of Galgenbeck. You’ve become adept at it over the years. 
     - (STR +0)
     - Succeeding a DR12 Strength test allows you to grapple an unaware foe and automatically crit with a one handed bladed weapon.
+
+Axe Warden
 
 - Battle-hardened Deathspeaker: You were called to battle, not for your prowess with blade and shield. Not for your speed and might. But because the words you spoke brought death to your enemies. 
     - (WIL +1)
@@ -12,10 +18,6 @@
 - Beastly Scholar: You study the beasts of the land. Gutting them and spilling viscera to uncover secrets of the world.
     - (PRE +1, WIL +1)
     - You may scry and see the future with an animal’s innards. Gain an omen for every 10 hp the beast had, but never more than your maximum omens. Usable once per animal kind. The beasts’ innards may also provide enlightening information.
-
-- Armour Cruncher: 
-    - (STR +3)
-    - Add opponent's armour dice to damage, when using blunt weapons.
 
 - Blood Pact: It’s a cruel world to be all alone in. But you’ve found a way to avoid this fate.
     - (WIL +0)
@@ -31,6 +33,8 @@
     - A d6 weapon, 1 corpse worth of bones. 
     - A shield, 4 corpses worth of bones. 
     - Light armor, 8 corpses worth.
+
+Bulwark
 
 - Calm Killer: The knife or arrow that is most careful is the deadliest. You have a sharp eye for gaps and kinks in armour.
     - (AGI +2)
@@ -154,7 +158,7 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - Spend an omen to succeed an attack on a unaware enemy with a gun.
     - Crits give you an omen, Taking damage removes one and reduces the damage taken by -d2.
 
-- Noble Soul
+- Noble Soul: mana banana blood guts
     - (PRE 0, WIL -0)
     - Lose 1 omen when lying, 2 when it's implausible, 3 max omens.
     - Lying tests are always successful.
