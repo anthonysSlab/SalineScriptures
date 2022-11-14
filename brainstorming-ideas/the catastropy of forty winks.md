@@ -36,14 +36,14 @@ Axe Warden
 
 Bulwark
 
-- Calm Killer: The knife or arrow that is most careful is the deadliest. You have a sharp eye for gaps and kinks in armour.
-    - (AGI +2)
-    - Twice per combat when making a ranged or melee attack, you may reroll the damage dealt and keep the higher result.
+- : 
+    - 
+    - .
 
-- Cats Eyes: You looked up at the birds for a sign. Scattered bones, spilled entrails. For naught. But one day you saw your fate in the eyes of a cat lurking in the shadows.
-    - (PRE +2)
-    - Near perfect vision in darkness, but the light of the sun burns your eyes. −2DR presence when in darkness, +2DR when in daylight.
-    - Staring into the eyes of a creature let’s you feel whatever it is feeling.
+- : 
+    - 
+    - 
+    - 
 
 - Fateful Visions: The fates steer your journey across the dying world. One can only hope they guide you to redemption and not destruction.
     - (PRE -0, WIL +0)
@@ -54,17 +54,17 @@ Bulwark
     - (TOU +2)
     - You may consume rotting, putrid flesh with a DR6 Toughness test. Others witnessing this may find it disgusting. Outcasts roll morale.
 
-- First Strike: You believe that the Shimmering Fields are for those who leap into battle, those who are first to reap glory.
-    - (AGI +2)
-    - Whether your side passes or fails the initiative roll, you may always act first.
-    - Your first action in combat has -2DR.
+- : 
+    - ()
+    - 
+    - 
 
-- Gutsy Strike: You once saw a man decapitate a horse with a giant sword. It was less a sword and more a large slab of iron. You can’t help but think of the beast’s vacant eyes whenever you swing your own sword.
-    - (STR +3)
-    - When wielding zweihand weapons, you may swing with +4 to your DR. If the attack lands you add d6 to your damage.
+- : You once saw a man decapitate a horse with a giant sword. It was less a sword and more a large slab of iron. You can’t help but think of the beast’s vacant eyes whenever you swing your own sword.
+    - ()
+    - 
 
-- Harbinger of Misery: You feel a dark blessing course though your veins. You have dedicated yourself to the black disk which will block out the sun.
-    - (all below 0)
+- : You feel a dark blessing course though your veins. You have dedicated yourself to the black disk which will block out the sun.
+    - ()
     - Gain 4 Maximum omens instead of 2. As long as you live the GM rolls two misery dice every day.
 
 - Herbalist Healer: You’ve spent what seemed like an eternity under the haze filled apprenticeship of a herbalist master. You left with a new outlook on life, and a few extra skills.
@@ -154,9 +154,9 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - Improvised and broken weapons are d6 but they break after one hit.
 
 - Culveriner
-    - (AGI -0, PRE +1)
-    - Spend an omen to succeed an attack on a unaware enemy with a gun.
-    - Crits give you an omen, Taking damage removes one and reduces the damage taken by -d2.
+    - 
+    - 
+    - 
 
 - Noble Soul: mana banana blood guts
     - (PRE 0, WIL -0)
@@ -170,8 +170,8 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - Test DR16 Will or spend an Omen to withdraw from combat.
 
 - Bulwark
-    - (STR +1, TOU +2)
-    - Defence is a DR8 Toughness test, success reduces damage by d4.
+    - 
+    - 
 
 - Masochist
     - (HP +3, WILL +1)
