@@ -1,108 +1,12 @@
-# FEAST
-- Armour Cruncher: 
-    - (STR +3)
-    - Add opponent's armour dice to damage, when using blunt weapons.
-
-- Assassin’s Deathblow: A firm grip. A sharp knife. That’s all it takes for someone to disappear into the alleys of Galgenbeck. You’ve become adept at it over the years. 
-    - (STR +0)
-    - Succeeding a DR12 Strength test allows you to grapple an unaware foe and automatically crit with a one handed bladed weapon.
-
-Axe Warden
-
-- Battle-hardened Deathspeaker: You were called to battle, not for your prowess with blade and shield. Not for your speed and might. But because the words you spoke brought death to your enemies. 
-    - (WIL +1)
-    - You may cast Powers with medium armour and light zweihand weapons. 
-    - (WIL +2)
-    - Taking this feat a second time to also include heavy armour and heavy zweihand weapons.
-
-- Beastly Scholar: You study the beasts of the land. Gutting them and spilling viscera to uncover secrets of the world.
-    - (PRE +1, WIL +1)
-    - You may scry and see the future with an animal’s innards. Gain an omen for every 10 hp the beast had, but never more than your maximum omens. Usable once per animal kind. The beasts’ innards may also provide enlightening information.
-
-- Blood Pact: It’s a cruel world to be all alone in. But you’ve found a way to avoid this fate.
-    - (WIL +0)
-    - Form a blood pact with a creature. You can communicate by thought no matter the distance, this never goes away. Whatever one experiences, so does the other. This includes injury and death.
-
-- Bloodthirsty Rage: The rush of combat is addictive. You’re always chasing that high. It’s kill or be killed. You can’t stop to ask questions.  
-    - (STR +1)
-    - When landing an attack that kills a creature you must move and attack another (this may include allies), adding d6 damage for every creature slain. Your onslaught stops when you fail to kill and you fall to the ground exhausted, losing your next turn
-
-- Bone Crafter: You don’t believe in letting things go to waste.
-    - (PRE +1, WIL -1)
-    - Including the corpses of the fallen You can craft equipment of strangely high quality using a number of humanoid corpses.
-    - A d6 weapon, 1 corpse worth of bones. 
-    - A shield, 4 corpses worth of bones. 
-    - Light armor, 8 corpses worth.
-
-Bulwark
-
-- : 
-    - 
-    - .
-
-- : 
-    - 
-    - 
-    - 
-
-- Fateful Visions: The fates steer your journey across the dying world. One can only hope they guide you to redemption and not destruction.
-    - (PRE -0, WIL +0)
-    - Consume an omen and spend a few moments in quiet meditation. Ask the Game Master a question pertaining to the current situation.
-    - You will be granted a bizarre vision that provides enlightening information. GM rolls a d4 in secret, on a 1 the vision is deceptive.
-
-- Iron Stomach: When crops fail, and livestock births inedible abominations. One learns to not be picky when it comes to food.
-    - (TOU +2)
-    - You may consume rotting, putrid flesh with a DR6 Toughness test. Others witnessing this may find it disgusting. Outcasts roll morale.
-
-- : 
-    - ()
-    - 
-    - 
-
-- : You once saw a man decapitate a horse with a giant sword. It was less a sword and more a large slab of iron. You can’t help but think of the beast’s vacant eyes whenever you swing your own sword.
-    - ()
-    - 
-
-- : You feel a dark blessing course though your veins. You have dedicated yourself to the black disk which will block out the sun.
-    - ()
-    - Gain 4 Maximum omens instead of 2. As long as you live the GM rolls two misery dice every day.
-
-- Herbalist Healer: You’ve spent what seemed like an eternity under the haze filled apprenticeship of a herbalist master. You left with a new outlook on life, and a few extra skills.
-    - (PRE +1)
-    - Once per day you may scrounge to find the necessary herbs and flora to create an infection curing elixir that also heals d4 hp.
-    - GM rolls a d4, on 1 you create a toxin dealing D4 damage. DR14 Presence to notice it's a poison.
-
-- Hyper Awareness: You are paranoid. Seeing danger in every shadow. Everything wants to kill you. You are jittery with bird-like movements.
-    - (PRE +1 AGI +1)
-    - You can never be the victim of a surprise attack. Additionally your side takes the initiative on a 3+.
-
-- Immortal Memory: You are haunted by the memories of those that have fallen. Even if their spirits have moved on, and the bodies are dust, their memories linger for eternity.
-    - (WIL +1)
-    - Whenever encountering a place of great suffering. You may relive the tragedy through a memory that lingers, gain an Omen.
-    - There is a 1/20 chance that things become all too real. You suffer the same fate in reality. This might cause creatures and Powers to reappear.
-
-- Leech: An acquired taste. Or perhaps a disease. Maybe a curse. An eternal thirst
-    - (TOU -1 WIL -1)
-    - Blood heals and sustains you. A pint of blood heals you for D4-1 hp. You suffer the effects of starvation after two day.
-
-- Intimidating
-    - (PRE -2, STR +0)
-    - persuasion/negotiation tests succeed when rolled below 10 
-    - Spend an Omen to cause a moralle test
 
 - Living Armor: You’ve survived war. You’ve survived because of cold steel that has been scarred so that you may live. It’s become a part of you and you’ve learned to carry its burden.
     - (Medium or Heavy Armour, TOU +2)
     - Remove the Agility penalty for the armor you are currently wearing. This does not affect your defence rolls.
     - You may not remove your armor without painfully dying. This also happens if it breaks. Repairing it is possible, but very painful.
 
-- Lucky: Fate? Sounds ominous. You prefer luck. Good things always seem to happen to you. This has lulled you into a false sense of security. How long will this last?   
-    - (3 abilities equal to 0)
-    - You do not have any omens. And no omens can be spent to influence your roll. Instead you always roll 2d20 for your tests and pick the highest result
-    - However, you still fumble if either of them come up as 1. Your luck has to run out eventually.
-
-- Mortal Draw: Your blade hungers. Blood is the only thing that can sate it. Once drawn it demands it, and will punish you for failing.
-    - (AGI +1 STR +1)
-    - Your first attack in combat always deals max damage assuming the attack hits. If you miss, your opponent may attack you. This can be defended against at +2DR
+- : 
+    - ()
+    - 
 
 - Negotiator: You abhor conflict. A pacifist by nature, sometimes it’s best to try de-escalate the situation. Some call you a coward.
     - (PRE +2)
@@ -136,28 +40,6 @@ Bulwark
     - Whenever a creature attacks you with a biting attack and hurts you it is poisoned. It suffers d4 damage for d6 rounds.
     - Additionally should you suffer an infection roll a d2. On a 2 you do not have infection.
 
-
-# IDEAS:
-
-Note: There are 9 (Including likeable) feats that need to be made.
-
-*Italics are rework ideas*
-
-// are comments
-
-- Interrupter
-    - (AGI +2)
-    - Once per combat you may sacrifice your next turn to interrupt an enemy's action, DR12 Agility to either: stop their turn, attack them, or do something else right before they do.
-
-- Inventive
-    - (PRE +3)
-    - Improvised and broken weapons are d6 but they break after one hit.
-
-- Culveriner
-    - 
-    - 
-    - 
-
 - Noble Soul: mana banana blood guts
     - (PRE 0, WIL -0)
     - Lose 1 omen when lying, 2 when it's implausible, 3 max omens.
@@ -168,26 +50,6 @@ Note: There are 9 (Including likeable) feats that need to be made.
     - (TOU +0, WIL -0)
     - You don't test morale and cannot be demoralized.
     - Test DR16 Will or spend an Omen to withdraw from combat.
-
-- Bulwark
-    - 
-    - 
-
-- Masochist
-    - (HP +3, WILL +1)
-    - Losing more than half your max hp in a fight gives you a extra action.
-    - Morale tests that are caused by pain are always successful. 
-
-- Axe Warden
-    - (AGI +1, STR +1)
-    - Test DR12 Strength to disarm someone with your axe, warpick, polearm or scyth. DR16 to use this instead of a defense test.
-    - Attacking the environment doesn't damage your weapon.
-
-- Baned hunter
-    - (-1 STR, +1 WILL)
-    - Your blood when spilled travels towards the nearest Impure, Unclean, or Heavily Wounded creature.
-    - Eating the Fresh Heart of an Unclean creature restores your Power, up to 4+Will max.
-    - You cannot regain Power by resting.
 
 - Shaman
     - (PRE +0, WIL +2)
@@ -210,3 +72,133 @@ MAGIC ITEM IDEAS:
 
 - Book
     - 
+
+
+## REWRITE
+
+20 Unclean Scroll  page 10
+
+20 Sacred Scroll  page 11
+
+Random Magical Object
+
+Begin with a Waterskin and d4 Days of Water and Food. Additionally roll on _ tables of Your Choice (One roll per Table)
+
+# FInel ================================================================
+
+# Light d6
+1 Bit of Dirty Clandle Wax 
+2 d4 Lard Candles (3h)
+3 d4 Torches (1h)
+4 Firesteel
+5 Lantern (d4 hours of oil)
+6 d2 Magnesium Strips (20s)
+
+# Tools d8
+1 Sharp Needle
+2 Rusty Bucket 
+3 Metal File
+4 Shovel
+5 Hand Saw
+6 Grappling Hook
+7 d2 Lockpicks
+8 Crowbar (d4-1)
+
+# Support d6
+1-3 Nothing //to change?
+4 Shield
+5 Medicine Box
+6 Life Elixir
+
+# Combat d8
+1 Bear Trap (no disarm mechanism)
+2 d2 Arrowheads laced with Red Poison
+3 Flash Bomb (no fuse)
+4 10 Caltrops
+5 Black Poison (d2 doses)
+6 Small Bomb
+
+# Misc d6
+1 d2 Chalks
+2 Chain (2m)
+3 d10 Lead Bearings
+4 d10 Nails
+5 2d20 Silver
+6 Hempen Rope (10m)
+ 
+# Ingredients whatevs d10
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10
+
+Sulfur
+Herbs
+
+Pouch of Blackpowder
+
+# Clothing d8 (thin threadbare if not rolling)
+1 Heretical Occult Cloak
+2 Very Fancy, Quite Itchy
+3 Priest's Robes, Bad at Insulating
+4 Messy and Ugly, Very Comfy
+5 Common Clothes, Blend in with Crowds
+6 Damaged Guard Uniform, Reroll Armour
+7 Padded and Warm, Good for Cold
+8 Hunter's Attire, Roll Another Table, Attracts Attention
+
+# BagsnShit d4
+1 Pouch (2 small items)
+2 Chest (3 Items)
+3 Sack (6 Items)
+4 Backpack (10 Items)
+
+# Modifiers (You can reroll any result, but must apply a random modifier to it)
+1 It's Heretical/Cursed
+2 Glaring Problem with it
+3 It's Makeshift
+4 Overused, is now unreliable (d8, on 1 it Fails Terribly)
+5 Needs Repair
+6 The Design is Bewildering
+7 Is Stolen From Another Player
+8 It's The Player's Keepsake
+9 Combine Both
+10 Item Is Improved
+
+# DaTrinky d12
+1 *Unclean Scroll*
+2 Small Mirror Shard
+3 Bag of Broken Glass
+4 Razor Blade
+5 Pan Flute
+6 Wooden Crucifix
+7 Rusted Iron Rod (d2+1)
+8 Book of Psalms (Most Pages Torn Out)
+9 Half a Treasure Map
+10 Heretical Bible
+11 Small Bag of Salt
+12 *Sacred Scroll*
+
+# Weapons 2d8 (d8 if beggining with a scroll)
+1 Reroll, the Scroll is burned into that weapon
+2 Femur from an Elderly (d1)
+3 Shiv (d2)
+4 Hatchet (d2+1)
+5 Staff (d4)
+6 Reliable Knuckle Dusters (2d2)
+7 Well-Used Sword (d4)
+8 Warhammer (d6-1)
+9 Spear (d4+1)
+10 Longsword (d6)
+11 Bow (d6, d10 arrows)
+12 Flail (d8, heavy)
+13 Longbow (d6+1,  d12 arrows)
+14 Pollaxe (d8+1, heavy)
+15 Crossbow (d8, d6 bolts)
+16 Zweihänder (d10, heavy)
