@@ -12,12 +12,6 @@
 
 
 
-
-
-
-
-
-
 ## Choose the type of ambush.
 1. Universal ambush.
 2. Region Specific. (EAT-PREY-KILL)

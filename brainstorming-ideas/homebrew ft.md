@@ -12,8 +12,8 @@ Note: There are 9 (Including likeable) feats that need to be made.
 
 - Inventive
     - (PRE +1, STR +1)
-    - Improvised and broken weapons are d6 but they break after one hit. // approved the broken thing
-
+    - Improvised and broken weapons are d6 but they break after one hit. // approved the broken thing 
+    
 - Culveriner
     - Spend an omen to succeed an attack on a unaware enemy with a gun 
     - Crits give you an omen, taking damage removes one.

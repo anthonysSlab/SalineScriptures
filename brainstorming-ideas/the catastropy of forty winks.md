@@ -74,6 +74,7 @@ MAGIC ITEM IDEAS:
     - 
 
 
+
 ## REWRITE
 
 20 Unclean Scroll  page 10
@@ -82,7 +83,7 @@ MAGIC ITEM IDEAS:
 
 Random Magical Object
 
-Begin with a Waterskin and d4 Days of Water and Food. Additionally roll on _ tables of Your Choice (One roll per Table)
+Begin with a Waterskin and d4 Days of Water and Food. Additionally roll on 4 tables of Your Choice (One roll per Table)
 
 # FInel ================================================================
 
@@ -105,10 +106,12 @@ Begin with a Waterskin and d4 Days of Water and Food. Additionally roll on _ tab
 8 Crowbar (d4-1)
 
 # Support d6
-1-3 Nothing //to change?
-4 Shield
-5 Medicine Box
-6 Life Elixir
+1 Flea ridden blanket, warm
+2 Tar stained sharpening stone
+3 Shield with no proper strap
+4 Medicine Box
+5 Uneven armour plates, might repair armour.
+6 "Life Elixir" is whats written on it...
 
 # Combat d8
 1 Bear Trap (no disarm mechanism)
@@ -127,21 +130,24 @@ Begin with a Waterskin and d4 Days of Water and Food. Additionally roll on _ tab
 6 Hempen Rope (10m)
  
 # Ingredients whatevs d10
-1 
-2 
-3 
-4 
-5 
-6 
-7 
-8 
-9 
-10
+1 Vomit
+2 Iron Shavings
+3 Sulfur
+4 An Assortment of Herbs
+5 Small Jar of Anointing
+6 Jar of Leaches
+7 Sipping Achohol
+8 Small Bag of Salt
+9 Pouch of Blackpowder
+10 Dried Psychotropic Mushrooms 
+gloves
+exocism
 
-Sulfur
-Herbs
-
-Pouch of Blackpowder
+split NO
+purging thingy? Ash sluge, vomit when inguste
+oil from a mite v
+dead man lice, eat dead flesh
+a fang of a nest snake, aborbs blood
 
 # Clothing d8 (thin threadbare if not rolling)
 1 Heretical Occult Cloak
@@ -180,9 +186,9 @@ Pouch of Blackpowder
 6 Wooden Crucifix
 7 Rusted Iron Rod (d2+1)
 8 Book of Psalms (Most Pages Torn Out)
-9 Half a Treasure Map
+9 Shabby Bounty Contract
 10 Heretical Bible
-11 Small Bag of Salt
+11 Small Scrying Mirror
 12 *Sacred Scroll*
 
 # Weapons 2d8 (d8 if beggining with a scroll)
@@ -202,3 +208,6 @@ Pouch of Blackpowder
 14 Pollaxe (d8+1, heavy)
 15 Crossbow (d8, d6 bolts)
 16 Zweihänder (d10, heavy)
+
+# Slver d6
+
