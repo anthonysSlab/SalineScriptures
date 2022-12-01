@@ -127,24 +127,9 @@ Prices vary depending on the commodity of the item in that place. Double price i
 
 ### FINISHED
 
-# Stock: 2d4
-2 - Recently pillaged, shelves empty
-3 - Rich travelers recently passed through, little stock but lots of money 
-4 - Moderately stocked, BUT...
-5 - Well stocked with useless items
-6 - Recent battle, Weapons leftover
-7 - Overstocked, No silver leftover
-8 - Well stocked, Sells a rare item
 
-# Merchants: d8
-1 - Snake oil merchant, Tries to scam the players.
-2 - Scavenger, Sells junk. 1 in 8 chance of something useful.
-3 - Peddler, sells food and lesser goods. Dirt poor.
-4 - Smuggler, *Desperately* tries to get rid of "their" stock, Chased by guards.
-5 - Recently departed merchant, Well stocked, Charges high.
-6 - War merchant, sell *suspiciously* high quality weapons.
-7 - "Herbalist", Sells Illegal goods, Guards patrolling nearby.
-8 - Strange merchant, Will pay a lot for an item *very important* to the players.
+
+
 
 # Road: d6
 1 - Narrow track drawn by "Animals". DR10 or lose it.
@@ -154,22 +139,6 @@ Prices vary depending on the commodity of the item in that place. Double price i
 5 - Road under repair, Repairmen will make you turn back.
 6 - Cobbled road, King's "soldiers" patrolling, DR14 if carrying Illegal goods.
 
-# Weather: 2d8
-2 - Roll twice and combine both
-3 - Wicked hail, Cutting Through Wood Like Butter. (find shelter or d8 damage)
-4 - Blood Rain, Unholy Tears. (DR6 or become infected)
-5 - Rain of Tar, Black Decay. (no travel progress until it stops)
-6 - Acid Rain, Melting Through Men. (Find shelter or d6 damage)
-7 - Syrupy Fog, Obscures Everything.
-8 - Pitch Black, Descending Into Void.
-9 - Numbing Frost, From Brave Men to Icy Statues.
-10 - Ashen Rain, Pale Storm.
-11 - Crackling Thunder, 
-12 - Gritty Wind, Turns Birds to Bullets.
-13 - Hammering Monsoon, Floods the Sky.
-14 - Heavy Mist, Covers the Ground.
-15 - Eerily Quiet, All Sound Muffled.
-16 - Aurora Borealis, but something's off...
 
 
 # EVENTEs d66
