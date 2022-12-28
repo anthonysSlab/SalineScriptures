@@ -9,10 +9,10 @@
 10. Practically worthless
 11-12. It's makeshift/improvised
 13-14. Needs repair
-15. The design is bewildering
-16. Obsolete design
-17. Is a recently stolen item
-18. Combine with previous item
+15.    The design is bewildering
+16.    Obsolete design
+17.    Is a recently stolen item
+18.    Combine with previous item
 19-20. Item is improved
 
 // Begin with a Waterskin and d4 Days of Water and Food. Additionally roll on 5 tables of Your Choice (One roll per Table)
@@ -64,7 +64,7 @@
 2 Iron Shavings
 3 Sulfur
 4 An Assortment of Herbs
-5 Small Jar of Anointing
+5 Small Jar of Anointing Oil
 6 Jar of Leaches
 7 Sipping Achohol
 8 Small Bag of Salt
@@ -120,11 +120,16 @@
 16 Zweihänder (d10, heavy)
 
 # Armour d6 (Always Light if Beggining with a Scroll)
-1-3 Light (fur, leather etc, -d2 damage, tier 1) 
-4-5 Medium (scale, mail etc, -d4 damage, tier 2) 
-6 Heavy (plate, splint etc, -d6 damage, tier 3) 
+1-3  Light  (fur, leather etc, -d2 damage, tier 1) 
+4-5  Medium (scale, mail etc, -d4 damage, tier 2) 
+ 6   Heavy  (plate, splint etc, -d6 damage, tier 3) 
 
-# Slver d6
-1     rich - 2d8×15
-2-3   modest - 2d6×10
-4-6   poor  - 2d4×5
+# Silver d6
+4-6    poor     d4×5
+2-3    modest   d8×10
+ 1     rich     d20×10
+
+
+
+//? Decrease silver Amount
+//! Add cart n pack animal

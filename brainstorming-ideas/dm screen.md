@@ -5,18 +5,7 @@
 
 
 # Villages: d12
-1 - Burned down after a recent conflict, d10 silver can be found in the ashes.
-2 - Recently Pillaged, No supplies to trade. Weary of outsiders.
-3 - Savage Beasts and Monsters live in the village, Residents terrorised, Low stock.
-4 - Ruled by Bandits, Spending over 25s will make them *interested*.
-5 - An Inquisitor is passing through and burning d6 heretics. DR14 or be searched for Unclean Magicks.
-6 - The "Village" is well stocked, but the "Residents" want you to leave urgently.
-7 - Eeger to trade, but hiding something...
-8 - Home to an underground "Herbalist" market, Moderate Stock, Villagers are mad at the "Herbalists" for bringing guards.
-9 - Rich noble is passing through, 2d6 guards with him. Village has a vast array of items.
-10 - Well off trading post, supplies plantiful.
-11 - Wealthy Merchant has recently passed through, Traded almost all supplies for d2 Rare Items.
-12 - What Village?
+
 
 
 # EVENTEs d88
@@ -114,12 +103,7 @@ Prices vary depending on the commodity of the item in that place. Double price i
 # Ruins:
 
 # Searching for Food n Water
-1 - Get lost and spend the day getting back
-2 - Find a small streak
-3 - Find d6+1 of "fresh" Food, DR14 Presence when eating to notice it's Infected
-4 - d6 rations of fresh Food and Water
-5 - Killing a Savage Beast yelds d8+2 days of Food.
-6 - a cart with 2d6+4 days of food and water, someone is looking for it.
+
 
 
 
@@ -131,13 +115,7 @@ Prices vary depending on the commodity of the item in that place. Double price i
 
 
 
-# Road: d6
-1 - Narrow track drawn by "Animals". DR10 or lose it.
-2 - Unrepaired Trade road, Riddled with Thieves and "Merchants".
-3 - Paved road, Riddled with holes in the ground, *no human could have made these*
-4 - Well paved, outpost, Charges taxes, 1 silver per item players carry.
-5 - Road under repair, Repairmen will make you turn back.
-6 - Cobbled road, King's "soldiers" patrolling, DR14 if carrying Illegal goods.
+
 
 
 

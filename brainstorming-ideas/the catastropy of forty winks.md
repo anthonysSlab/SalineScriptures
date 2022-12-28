@@ -4,9 +4,9 @@
     - Remove the Agility penalty for the armor you are currently wearing. This does not affect your defence rolls.
     - You may not remove your armor without painfully dying. This also happens if it breaks. Repairing it is possible, but very painful.
 
-- : 
-    - ()
-    - 
+
+
+
 
 - Negotiator: You abhor conflict. A pacifist by nature, sometimes it’s best to try de-escalate the situation. Some call you a coward.
     - (PRE +2)
@@ -55,20 +55,3 @@
     - (PRE +0, WIL +2)
     - Can spend an omen to perform a ritual that changes an aspect of the weather.
     - Test DR14 Presence to foresee the upcoming weather.
-
-Unclean:
-    - Heretics
-    - Witches
-    - Liches
-    
-Impure
-    - Skeletons
-    - Goblins
-    - thieves
-
-
-
-MAGIC ITEM IDEAS:
-
-- Book
-    - 
